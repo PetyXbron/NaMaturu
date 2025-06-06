@@ -1,0 +1,31 @@
+{
+	"name": "namaturu",
+	"version": "0.1",
+	"author": "PetyXbron",
+	"license": "MIT",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "description": "Učební materiály",
+	"keywords": [
+		"vitepress",
+		"vite",
+		"vue",
+		"markdown",
+		"czech",
+		"matura",
+		"education",
+		"exams",
+    "docs",
+    "cesky",
+    "cestina",
+    "maturita"
+	]
+}
