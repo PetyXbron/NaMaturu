@@ -5,21 +5,24 @@ layout: home
 hero:
   name: "NaMaturu"
   text: "Učební materiály"
-  tagline: My great project tagline
+  tagline: Přehledná a srozumitelná příprava na maturitu
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Matematika
+      link: /matematika
+    - theme: brand
+      text: Zeměpis
+      link: /zemepis
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🤝
+    title: Od studenta Pro studenty
+    details: V příručce můžeš vyhledávat a tak nalézt ty nejdůležitější informace!
+  - icon: 📚
+    title: Od A do Z
+    details: Stránky cílí na všechny otázky, které se na maturitě mohou objevit.
+  - icon: 🚀
+    title: Jednoduše a přehledně
+    details: Web s přehledným designem, který je snadno použitelný na všech zařízeních.
 ---
 
