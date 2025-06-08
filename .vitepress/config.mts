@@ -45,14 +45,14 @@ export default defineConfig({
 							{ text: '13 Nekonečná geometrická řada', link: '13-nekonecna-geometricka-rada' },
 							{ text: '14 Kombinatorika', link: '14-kombinatorika' },
 							{ text: '15 Pravděpodobnost a statistika', link: '15-pravdepodobnost-a-statistika' },
-							{ text: '16 Stereometrie', link: '16-stereometrie' },
-							{ text: '17 Objemy a povrchy těles', link: '17-objemy-a-povrchy' },
 						]
 					},
 					{
 						text: 'Sekce 3',
 						collapsed: true,
 						items: [
+							{ text: '16 Stereometrie', link: '16-stereometrie' },
+							{ text: '17 Objemy a povrchy těles', link: '17-objemy-a-povrchy' },
 							{ text: '18 Vektorová algebra', link: '18-vektorova-algebra' },
 							{ text: '19 Přímka v rovině a prostoru', link: '19-primka-v-rovine-a-prostoru' },
 							{ text: '20 Rovnice roviny', link: '20-rovnice-rovniny-a-vzajemna-poloha' },
