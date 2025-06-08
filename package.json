@@ -1,19 +1,15 @@
 {
 	"name": "namaturu",
-	"version": "0.3",
+	"version": "0.4",
 	"author": "PetyXbron",
 	"license": "MIT",
-  "private": true,
-  "dependencies": {},
-  "devDependencies": {
-    "vitepress": "^1.6.3"
-  },
-  "scripts": {
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "preview": "vitepress preview"
-  },
-  "description": "Učební materiály",
+	"private": true,
+	"dependencies": {
+		"katex": "^0.16.22",
+		"markdown-it-katex": "^2.0.3",
+		"vitepress": "^1.6.3"
+	},
+	"description": "Učební materiály",
 	"keywords": [
 		"vitepress",
 		"vite",
@@ -23,9 +19,14 @@
 		"matura",
 		"education",
 		"exams",
-    "docs",
-    "cesky",
-    "cestina",
-    "maturita"
-	]
+		"docs",
+		"cesky",
+		"cestina",
+		"maturita"
+	],
+	"scripts": {
+		"dev": "vitepress dev",
+		"build": "vitepress build",
+		"preview": "vitepress preview"
+	}
 }

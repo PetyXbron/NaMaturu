@@ -3,6 +3,8 @@ title: Elipsa
 description: Otázka 22 - Elipsa
 ---
 
-# Elipsa
+# **Elipsa**
 
-Na této stránce ještě stále pracujeme.
+- středová a obecná rovnice
+- rovnice tečny k elipse z daného bodu
+- vzájemná poloha přímky a elipsy

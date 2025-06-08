@@ -3,6 +3,9 @@ title: Vektorová algebra
 description: Otázka 18 - Vektorová algebra
 ---
 
-# Vektorová algebra
+# **Vektorová algebra**
 
-Na této stránce ještě stále pracujeme.
+- vektor, souřadnice vektoru, operace s vektory
+- lineární závislost vektorů
+- velikost vektorů, odchylka dvou vektorů
+- skalární a vektorový součin dvou vektor
