@@ -9,3 +9,7 @@ description: Otázka 2 - Lineární rovnice a nerovnice
 - důsledkové úpravy rovnic a nerovnic
 - lineární rovnice s parametrem
 - slovní úlohy
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

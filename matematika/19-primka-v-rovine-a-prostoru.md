@@ -9,3 +9,7 @@ description: Otázka 19 - Přímka v rovin a prostoru
 - vzájemná poloha přímek v rovině a prostoru
 - odchylka dvou přímek
 - vzdálenost bodu od přímky
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

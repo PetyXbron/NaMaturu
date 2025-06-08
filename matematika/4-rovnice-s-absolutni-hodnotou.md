@@ -7,3 +7,7 @@ description: Otázka 4 - Rovnice a nerovnice s absolutní hodnotou
 
 - definice absolutní hodnoty
 - postup řešení rovnice a nerovnice s absolutní hodnotou
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

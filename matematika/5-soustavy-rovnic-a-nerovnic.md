@@ -10,3 +10,7 @@ description: Otázka 5 - Soustavy rovnic a nerovnic
 - soustavy lineární a kvadratické rovnice a dvou kvadratických rovnic
 - slovní úlohy
 - grafické řešení nerovnic
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

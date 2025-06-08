@@ -8,3 +8,7 @@ description: Otázka 8 - Logaritmické funkce a rovnice
 - definice logaritmické funkce, definiční obor, obor hodnot, graf
 - logaritmus, pravidla pro počítání s logaritmy
 - řešení logaritmických rovnic
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

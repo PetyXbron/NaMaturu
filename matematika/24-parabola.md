@@ -8,3 +8,7 @@ description: Otázka 24 - Parabola
 - vrcholová a obecná rovnice
 - rovnice tečny k parabole z daného bodu
 - vzájemná poloha přímky a parabol
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

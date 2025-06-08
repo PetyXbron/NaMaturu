@@ -12,6 +12,10 @@ description: Otázka 10 - Shodná a podobná zobrazení, konstrukce trojúhelní
 - otočení
 - podobná zobrazení – stejnolehlost
 
+::: warning STÁLE UPRAVUJEME
+Tato stránka je stále ve vývoji a může se brzy změnit.
+:::
+
 ## **Definice zobrazení**
 
 Zobrazení je pravidlo, které každému bodu v rovině nebo prostoru přiřazuje jiný bod. Zobrazení může být shodné nebo podobné.

@@ -10,6 +10,10 @@ description: Otázka 9 - Lineární, lineární lomená, kvadratická, mocninná
 - intervaly monotónnosti funkce
 - omezenost, extrémy
 
+::: warning STÁLE UPRAVUJEME
+Tato stránka je stále ve vývoji a může se brzy změnit.
+:::
+
 ## **Definice funkce, graf funkce**
 
 Funkce je pravidlo, které každému prvku z definičního oboru přiřazuje právě jeden prvek z oboru hodnot. Graf funkce je množina bodů $(x, y)$, kde $y = f(x)$. Například graf lineární funkce $f(x) = ax + b$ je přímka.

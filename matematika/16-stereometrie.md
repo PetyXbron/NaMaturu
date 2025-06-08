@@ -13,3 +13,7 @@ description: Otázka 16 - Stereometrie
 - vzdálenost bodu od roviny a přímky
 - úhel dvou rovin, roviny a přímky, dvou přímek v prostoru
 - příčka mimoběžek
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

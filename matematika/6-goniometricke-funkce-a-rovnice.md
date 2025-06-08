@@ -10,3 +10,7 @@ description: Otázka 6 - Goniometrické funkce a rovnice
 - vztahy mezi goniometrickými funkcemi
 - úprava výrazů s goniometrickými funkcemi
 - řešení goniometrických rovnic
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

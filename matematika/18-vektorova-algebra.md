@@ -9,3 +9,7 @@ description: Otázka 18 - Vektorová algebra
 - lineární závislost vektorů
 - velikost vektorů, odchylka dvou vektorů
 - skalární a vektorový součin dvou vektor
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

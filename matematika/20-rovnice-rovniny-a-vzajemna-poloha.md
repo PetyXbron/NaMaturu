@@ -9,3 +9,7 @@ description: Otázka 20 - Rovnice roviny, vzájemná poloha přímky a roviny
 - obecná rovnice roviny
 - vzájemná poloha přímky a roviny
 - průsečnice dvou různoběžných rovin
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

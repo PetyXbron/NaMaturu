@@ -10,6 +10,10 @@ description: Otázka 11 - Řešení pravouhlého a obecného trojúhelníku
 - goniometrické funkce v pravoúhlém trojúhelníku
 - sinová a kosinová věta
 
+::: warning STÁLE UPRAVUJEME
+Tato stránka je stále ve vývoji a může se brzy změnit.
+:::
+
 ## **Vlastnosti trojúhelníku**
 
 Trojúhelník je geometrický útvar tvořený třemi vrcholy a třemi stranami. Součet vnitřních úhlů trojúhelníku je vždy $180^\circ$.

@@ -11,6 +11,10 @@ description: Otázka 3 - Kvadratické rovnice a nerovnice
 - iracionální rovnice
 - kvadratické rovnice s parametrem
 
+::: warning STÁLE UPRAVUJEME
+Tato stránka je stále ve vývoji a může se brzy změnit.
+:::
+
 ## **Ekvivalentní a důsledkové úpravy rovnic a nerovnic**
 
 Ekvivalentní úpravy kvadratických rovnic zahrnují přičítání, odčítání, násobení nebo dělení obou stran rovnice nenulovým číslem. Důsledkové úpravy mohou změnit množinu řešení, například při odmocňování je nutné ověřit, zda získané řešení splňuje původní rovnici.
