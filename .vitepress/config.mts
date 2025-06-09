@@ -1,5 +1,6 @@
-import { defineConfig } from 'vitepress'
+import { loadEnv, defineConfig } from 'vitepress'
 import math from 'markdown-it-katex'
+const env = loadEnv("", process.cwd());
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -7,6 +8,11 @@ export default defineConfig({
 	description: "Učební materiály",
 	lang: 'cs-CZ',
 	cleanUrls: true,
+	base: '/',
+
+	sitemap: {
+		hostname: env.VITE_hostname
+	},
 
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
@@ -69,6 +75,7 @@ export default defineConfig({
 
 		socialLinks: [
 			{ icon: 'github', link: 'https://github.com/PetyXbron/NaMaturu' },
+			{ icon: 'minutemailer', link: `mailto:${env.VITE_email}` },
 		],
 
 		lastUpdated: {

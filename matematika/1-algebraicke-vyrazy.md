@@ -11,7 +11,7 @@ description: Otázka 1 - Úprava algebraických výrazů
 - společný násobek a dělitel výrazu
 - výrazy s mocninami a odmocninami, pravidla pro počítání s mocninami a odmocninami
 
-## **Definiční obor výrazu**
+## **Definiční obor výrazu** {#1}
 
 Výrazy mají svá pravidla. Některé hodnoty proměnné jsou zakázané - právě ty určuje definiční obor.
 
@@ -60,7 +60,7 @@ Podmínky:
 :::
 
 
-## **Algebraické vzorce**
+## **Algebraické vzorce** {#2}
 
 Tyto vzorce jsou základními nástroji pro úpravu algebraických výrazů:
 
@@ -87,7 +87,7 @@ Použijeme vzorec rozdílu čtverců:
 $x^2 - 9 =$ **$(x + 3)(x - 3)$**
 :::
 
-## **Rozklad mnohočlenu pomocí vytýkání a pomocí vzorců**
+## **Rozklad mnohočlenu pomocí vytýkání a pomocí vzorců** {#3}
 
 Rozklad mnohočlenu je proces, při kterém **hledáme jednodušší formy**, které tvoří daný mnohočlen. Existují dva hlavní způsoby:
 
@@ -113,7 +113,7 @@ Použijeme vzorec rozdílu čtverců:
 $x^2 - 4 =$ **$(x + 2)(x - 2)$**.
 :::
 
-## **Společný násobek a dělitel výrazu**
+## **Společný násobek a dělitel výrazu** {#4}
 
 Společný násobek a dělitel jsou důležité při práci s algebraickými výrazy:
 
@@ -137,7 +137,7 @@ Největší výraz, který dělí všechny dané výrazy.
 Společný násobek je **$x^2$**
 :::
 
-## **Výrazy s mocninami a odmocninami, pravidla pro počítání s mocninami a odmocninami**
+## **Výrazy s mocninami a odmocninami, pravidla pro počítání s mocninami a odmocninami** {#5}
 
 Práce s mocninami a odmocninami vyžaduje znalost základních pravidel:
 
