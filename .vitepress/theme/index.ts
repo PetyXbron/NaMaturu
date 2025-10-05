@@ -4,6 +4,9 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
 
+import { inject } from '@vercel/analytics';
+import { injectSpeedInsights } from '@vercel/speed-insights';
+
 export default {
   extends: DefaultTheme,
   Layout: () => {
@@ -12,6 +15,8 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
+    inject()
+    injectSpeedInsights()
+    console.log('[NM] Vercel balíčky byly spuštěny.')
   }
 } satisfies Theme
