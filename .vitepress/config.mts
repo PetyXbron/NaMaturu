@@ -17,9 +17,10 @@ export default defineConfig({
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
-			{ text: 'Domů', link: '/' },
-			{ text: 'Matematika', link: '/matematika', activeMatch: '/matematika/' },
-			{ text: 'Zeměpis', link: '/zemepis', activeMatch: '/zemepis/' },
+			{ text: '🏠 Domů', link: '/' },
+			{ text: '🌍 Zeměpis', link: '/zemepis', activeMatch: '/zemepis/' },
+			{ text: '💻 Informatika', link: '/informatika', activeMatch: '/informatika/' },
+			{ text: '📊 Matematika', link: '/matematika', activeMatch: '/matematika/' },
 		],
 
 		sidebar: {
@@ -122,7 +123,7 @@ export default defineConfig({
 		},
 
 		footer: {
-			copyright: '© 2025 <a href="https://github.com/PetyXbron" target="_blank">PetyXbron</a>',
+			copyright: 'Informace jsou čerpány z volně dostupných zdrojů a mohou obsahovat chyby.<br>Licence <strong>MIT</strong> - Volné použití a šíření<br>© 2025 <strong><a href="https://github.com/PetyXbron" target="_blank">PetyXbron</a></strong>',
 		}
 	},
 

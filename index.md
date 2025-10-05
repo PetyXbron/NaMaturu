@@ -8,11 +8,14 @@ hero:
   tagline: Přehledná a srozumitelná příprava na maturitu
   actions:
     - theme: brand
-      text: Matematika
-      link: /matematika
-    - theme: brand
-      text: Zeměpis
+      text: 🌍 Zeměpis
       link: /zemepis
+    - theme: brand
+      text: 💻 Informatika
+      link: /informatika
+    - theme: brand
+      text: 📊 Matematika
+      link: /matematika
 
 features:
   - icon: 🤝
