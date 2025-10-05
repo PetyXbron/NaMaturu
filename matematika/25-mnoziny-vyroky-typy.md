@@ -11,6 +11,10 @@ description: Otázka 25 - Množiny, výroky, typy matematických důkazů
 - negace jednoduchých a složených výroků
 - typy důkazů – přímý, nepřímý, sporem, matematickou indukcí
 
+::: danger NEDOKONČENO
+Tato stránka může obsahovat chyby.
+:::
+
 ## **Množina, operace s množinami**
 
 Množina je základní matematický objekt, který obsahuje prvky. Operace s množinami zahrnují sjednocení ($A \cup B$), průnik ($A \cap B$) a rozdíl ($A \setminus B$).
