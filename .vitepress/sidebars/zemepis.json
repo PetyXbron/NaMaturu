@@ -1,0 +1,49 @@
+[
+    {
+        "text": "Fyzická geografie",
+        "collapsed": true,
+        "items": [
+            { "text": "1 Země jako vesmírné těleso", "link": "1-zeme-jako-vesmirne-teleso" },
+            { "text": "2 Základy kartografie", "link": "2-zaklady-kartografie" },
+            { "text": "3 Litosféra", "link": "3-litosfera" },
+            { "text": "4 Georelief, endogenní a exogenní síly", "link": "4-georelief-endogenni-exogenni-sily" },
+            { "text": "5 Atmosféra", "link": "5-atmosfera" },
+            { "text": "6 Hydrosféra, hydrologie pevnin", "link": "6-hydrosfera-hydrologie-pevnin" },
+            { "text": "7 Hydrosféra, světový oceán", "link": "7-hydrosfera-svetovy-ocean" },
+            { "text": "8 Pedosféra", "link": "8-pedosfera" },
+            { "text": "9 Biosféra", "link": "9-biosfera" }
+        ]
+    },
+    {
+        "text": "Hospodářství",
+        "collapsed": true,
+        "items": [
+            { "text": "10 Geografie obyvatelstva a sídel", "link": "10-geografie-obyvatelstva-a-sidel" },
+            { "text": "11 Hospodářství, primární sektor", "link": "11-hospodarstvi-primarni-sektor" },
+            { "text": "12 Hospodářství, sekundární sektor", "link": "12-hospodarstvi-sekundarni-sektor" },
+            { "text": "13 Hospodářství, terciální sektor", "link": "13-hospodarstvi-tercialni-sektor" },
+            { "text": "14 Stát", "link": "14-stat" },
+            { "text": "15 Mezinárodní integrace", "link": "15-mezinarodni-integrace" }
+        ]
+    },
+    {
+        "text": "Regionální geografie",
+        "collapsed": true,
+        "items": [
+            { "text": "16 Severní Evropa", "link": "16-severni-evropa" },
+            { "text": "17 Západní Evropa", "link": "17-zapadni-evropa" },
+            { "text": "18 Jižní a jihovýchodní Evropa", "link": "18-jizni-a-jihovychodni-evropa" },
+            { "text": "19 Střední a východní Evropa", "link": "19-stredni-a-vychodni-evropa" },
+            { "text": "20 Anglosáská Amerika", "link": "20-anglosaska-amerika" },
+            { "text": "21 Latinská Amerika", "link": "21-latinska-amerika" },
+            { "text": "22 Severní Afrika a jihozápadní Asie", "link": "22-severni-afrika-a-jihozapadni-asie" },
+            { "text": "23 Subsaharská Afrika", "link": "23-subsaharska-afrika" },
+            { "text": "24 Jižní a střední Asie", "link": "24-jizni-a-stredni-asie" },
+            { "text": "25 Jihovýchodní a východní Asie", "link": "25-jihovychodni-a-vychodni-asie" },
+            { "text": "26 Austrálie a Oceánie a polární oblasti", "link": "26-australie-a-oceanie-a-polarni-oblasti" },
+            { "text": "27 ČR - geografie", "link": "27-cr-geografie" },
+            { "text": "28 ČR - ekonomie", "link": "28-cr-ekonomie" },
+            { "text": "29 ČR - JMK a Brno", "link": "29-cr-jmk-a-brno" }
+        ]
+    }
+]

@@ -104,6 +104,15 @@
     #117e61 50%
   );
   --vp-home-hero-image-filter: blur(44px);
+
+  .VPImage {
+    transform: scale(0.6);
+  }
+
+  .image-src {
+    left: unset;
+    top: unset;
+  }
 }
 
 @media (min-width: 640px) {
