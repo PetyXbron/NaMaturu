@@ -5,6 +5,74 @@ description: Otázka 4 - Georelief, endogenní a exogenní síly, diferenciace g
 
 # **Georelief, endogenní a exogenní síly, diferenciace georeliéfu**
 
-::: danger NEDOKONČENO
-Na této stránce ještě stále pracujeme.
+::: warning STÁLE UPRAVUJEME
+Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
+
+Geomorfologie je věda, která studuje **zemský povrch a jeho vývoj**.  
+Vývoj zemské kůry je dlouhodobý proces, který má za výsledek určitý typ reliéfu.  
+To celé zapříčiňuje působení **endogenních** a **exogenních** sil.
+
+## Endogenní síly
+
+Mají původ pod zemským povrchem:
+
+- **Vulkanické** = magmatické pochody
+- **Seizmické** = zemětřesení
+- **Tektonické** = pohyb litosférických desek
+
+### Vulkanická činnost
+
+- Podzemní - "lakolity"
+- Povrchové
+
+### Seizmická činnost
+
+V důsledku sopečné nebo tektonické činnosti často dochází k zemětřesení.
+
+- **Řítívá** = zřícení stropů podzemních dutin
+- **Sopečná**
+- **Tektonická** = nejničivější a nejrosáhlejší
+
+**Hypocentrum** - místo vzniku zemětřesení v hloubce zemské kůry
+**Epicentrum** - místo na zemském povrchu nad hypocentrem
+
+**Richterova stupnice** - měří sílu zemětřesení (1-12)
+
+Stavby se tomu brání:
+- Větší stavby - železobetonové konstrukce
+- Menší stavby - rodinné domy ze dřeva o jednom podlaží stavěné
+na betonové desce (případně i obohacena o válce) - umožňuje to pohyb na povrchu
+
+- P vlny - primární, podélné
+- S vlny - sekundární, příčné
+- L vlny - povrchové
+
+Dále dělíme:
+
+- Vrása
+- Zlom
+- Vrásový příkrov
+
+Vrása - jura, Lyon - Francie, Švýcarsko  
+Zlomové pohoří - Vodopád Angel
+
+## Exogenní síly
+
+- Zvětrávání (eroze)
+- Transport materiálu
+- Usazování (sedimentace) materiálu
+
+- Činnost větru - pobřeží, horské oblasti a pouště
+
+| **Podnebí** | **Hl. modelační činitel** | **Typ zvětrávání** | **Příklady**          |
+|-------------|---------------------------|--------------------|-----------------------|
+| Aridní      | Vítr                      | Mechanické         | Arches, Údolí smrti   |
+| Humidní     | Voda                      | Mech., Chemické    |                       |
+| Nivální     | Sníh, led                 | Mechanické         |                       |
+
+Rozdělení pouští:
+
+1. Písečná - ERG
+2. Skalnatá - HAMADA
+3. Kamenitá - REG
