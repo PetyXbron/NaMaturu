@@ -9,7 +9,7 @@ description: Otázka 9 - Planterátní diferenciace biosféry
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 
-Základní jednotkou je biom
+Základní jednotkou je **biom**.
 
 ## Rozdělení biomů
 

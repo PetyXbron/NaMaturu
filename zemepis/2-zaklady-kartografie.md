@@ -5,10 +5,6 @@ description: Otázka 2 - Základy kartografie
 
 # **Základy kartografie**
 
-::: warning STÁLE UPRAVUJEME 📝
-Tato stránka je stále ve vývoji a může se brzy změnit.
-:::
-
 **Kartografie** je věda zabývající se tvorbou map. To se týká zemského povrchu i dalších těles ve vesmíru.  
 
 ## Pojmy kartografie

@@ -9,11 +9,7 @@ description: Otázka 7 - Planterátní diferenciace hydrosféry - světový oce�
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 
-XXX
-- Zlomové pohoří
-- Teplotní gradient pro 
-- Zvětrávání - tvary
-XXX
+
 
 Reliéf
 
@@ -45,5 +41,3 @@ Mont Saint - Michel - ustoupení moře o 17 km (2x za měsíc)
 Teritotální vody - 3 až 12 námořních mil od pobřeží
 Hospodářské pásmo - 200 námořních mil od pobřeží
 Mezinárodní vody - za hranicí hospodářského pásma
-
-já jsem mu přál k svátku

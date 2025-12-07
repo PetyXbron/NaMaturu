@@ -34,7 +34,10 @@ Přestupný rok - 366 d (každé 4 roky)
 **Perihelium** ("přísluní") - nejbližší bod k Slunci (3. leden)  
 **Afélium** ("odsluní") - nejvzdálenější bod od Slunce (5. červenec)
 
-![Oběh Země kolem Slunce](/media/zemepis/vzdalenost-zeme.png)
+![Oběh Země kolem Slunce (revoluce)](/media/zemepis/vzdalenost-zeme.png "Oběh Země kolem Slunce (revoluce)")
+<div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray;">
+Oběh Země kolem Slunce | Sobotová (1996) | ISBN 80-901942-5-7
+</div>
 
 ### Čas
 
