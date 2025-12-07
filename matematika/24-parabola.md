@@ -17,29 +17,23 @@ Tato stránka může obsahovat chyby.
 
 Vrcholová rovnice paraboly je:
 
-\(
-y = a(x - x_0)^2 + y_0,
-\)
+$$y = a(x - x_0)^2 + y_0$$
 
 kde $(x_0, y_0)$ je vrchol paraboly a $a$ je koeficient určující její otevření.
 
 Obecná rovnice paraboly je:
 
-\(
-Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0,
-\)
+$$Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$$
 
-kde \(A\), \(B\), \(C\), \(D\), \(E\), \(F\) jsou konstanty.
+kde $A$, $B$, $C$, $D$, $E$, $F$ jsou konstanty.
 
 ## **Rovnice tečny k parabole z daného bodu**
 
-Tečna k parabole z bodu \((x_1, y_1)\) je:
+Tečna k parabole z bodu $(x_1, y_1)$ je:
 
-\(
-y - y_1 = 2a(x - x_0),
-\)
+$$y - y_1 = 2a(x - x_0)$$
 
-kde \((x_0, y_0)\) je vrchol paraboly a \(a\) je koeficient určující její otevření.
+kde $(x_0, y_0)$ je vrchol paraboly a $a$ je koeficient určující její otevření.
 
 ## **Vzájemná poloha přímky a paraboly**
 

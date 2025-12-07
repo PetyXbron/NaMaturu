@@ -19,12 +19,12 @@ Tato stránka může obsahovat chyby.
 
 Soustavy lineárních rovnic se řeší metodou dosazovací, sčítací nebo maticovou. Například soustava:
 
-\(
+$$
 \begin{aligned}
 2x + y &= 5, \\
 3x - y &= 4
 \end{aligned}
-\)
+$$
 
 lze řešit dosazením $y$ z první rovnice do druhé.
 
@@ -32,12 +32,12 @@ lze řešit dosazením $y$ z první rovnice do druhé.
 
 Řešení soustav lineárních nerovnic zahrnuje nalezení oblasti, která splňuje všechny nerovnice. Například soustava:
 
-\(
+$$
 \begin{aligned}
 x + y &\leq 5, \\
 x - y &\geq 2
 \end{aligned}
-\)
+$$
 
 má řešení v oblasti vymezené přímkami.
 
@@ -45,12 +45,12 @@ má řešení v oblasti vymezené přímkami.
 
 Soustavy obsahující kvadratické rovnice se řeší substitucí nebo graficky. Například soustava:
 
-\(
+$$
 \begin{aligned}
 y &= x^2, \\
 y &= 2x + 3
 \end{aligned}
-\)
+$$
 
 má řešení v průsečících grafů.
 

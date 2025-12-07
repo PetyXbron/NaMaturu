@@ -66,17 +66,17 @@ Tyto vzorce jsou základními nástroji pro úpravu algebraických výrazů:
 
 ### Rozklad kvadrátu součtu/diference
 
-   $$(a + b)^2 = a^2 + 2ab + b^2$$
-   $$(a - b)^2 = a^2 - 2ab + b^2$$
+$$(a + b)^2 = a^2 + 2ab + b^2$$
+$$(a - b)^2 = a^2 - 2ab + b^2$$
 
 ### Rozklad kubu součtu/diference
 
-   $$(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$$
-   $$(a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$$
+$$(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$$
+$$(a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$$
 
 ### Rozdíl čtverců
 
-   $$a^2 - b^2 = (a + b)(a - b)$$
+$$a^2 - b^2 = (a + b)(a - b)$$
 
 Tyto vzorce se používají při rozkladu mnohočlenů, zjednodušování výrazů a řešení rovnic.
 

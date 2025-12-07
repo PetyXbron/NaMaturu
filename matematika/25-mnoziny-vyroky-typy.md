@@ -23,9 +23,7 @@ Množina je základní matematický objekt, který obsahuje prvky. Operace s mno
 
 Interval je podmnožina reálných čísel. Operace s intervaly zahrnují sjednocení, průnik a rozdíl. Například:
 
-\[
-\langle a, b \rangle \cap \langle c, d \rangle = \langle \max(a, c), \min(b, d) \rangle.
-\]
+$$\langle a, b \rangle \cap \langle c, d \rangle = \langle \max(a, c), \min(b, d) \rangle$$
 
 ## **Jednoduché a složené výroky a jejich pravdivostní hodnoty**
 
@@ -33,7 +31,8 @@ Jednoduchý výrok je tvrzení, které může být pravdivé nebo nepravdivé. S
 
 ## **Negace jednoduchých a složených výroků**
 
-Negace výroku mění jeho pravdivostní hodnotu. Například negace výroku "$x > 5$" je "$x \leq 5$".
+Negace výroku mění jeho pravdivostní hodnotu.  
+Například negace výroku "$x > 5$" je "$x \leq 5$".
 
 ## **Typy důkazů – přímý, nepřímý, sporem, matematickou indukcí**
 
@@ -41,4 +40,5 @@ Přímý důkaz ukazuje platnost tvrzení přímo. Nepřímý důkaz vychází z
 
 ## **Pravdivostní hodnoty výroků**
 
-Pravdivostní hodnoty výroků jsou určeny podle jejich logické struktury. Například negace výroku "$x > 5$" je "$x \leq 5$".
+Pravdivostní hodnoty výroků jsou určeny podle jejich logické struktury.  
+Například negace výroku "$x > 5$" je "$x \leq 5$".

@@ -26,9 +26,7 @@ Vektory jsou lineárně závislé, pokud jeden z nich lze vyjádřit jako lineá
 
 Velikost vektoru $\vec{v} = (x, y)$ je dána vzorcem:
 
-\[
-|\vec{v}| = \sqrt{x^2 + y^2}.
-\]
+$$|\vec{v}| = \sqrt{x^2 + y^2}$$
 
 Odchylka dvou vektorů je úhel mezi nimi, který lze vypočítat pomocí skalárního součinu.
 
@@ -36,10 +34,8 @@ Odchylka dvou vektorů je úhel mezi nimi, který lze vypočítat pomocí skalá
 
 Skalární součin dvou vektorů $\vec{u}$ a $\vec{v}$ je definován jako:
 
-\[
-\vec{u} \cdot \vec{v} = |\vec{u}| \cdot |\vec{v}| \cdot \cos \theta,
-\]
+$$\vec{u} \cdot \vec{v} = |\vec{u}| \cdot |\vec{v}| \cdot \cos \alpha$$
 
-kde $\theta$ je úhel mezi vektory.
+kde $\alpha$ je úhel mezi vektory.
 
 Vektorový součin dvou vektorů je definován pouze v prostoru a výsledkem je vektor kolmý na oba původní vektory.

@@ -18,7 +18,7 @@ Tato stránka může obsahovat chyby.
 
 Parametrické vyjádření roviny je:
 
-\[\vec{r}(u, v) = \vec{r}_0 + u \cdot \vec{d}_1 + v \cdot \vec{d}_2,\]
+$$\vec{r}(u, v) = \vec{r}_0 + u \cdot \vec{d}_1 + v \cdot \vec{d}_2$$
 
 kde $\vec{r}_0$ je bod na rovině, $\vec{d}_1$ a $\vec{d}_2$ jsou směrové vektory a $u$, $v$ jsou parametry.
 
@@ -26,9 +26,7 @@ kde $\vec{r}_0$ je bod na rovině, $\vec{d}_1$ a $\vec{d}_2$ jsou směrové vekt
 
 Obecná rovnice roviny je:
 
-\(
-Ax + By + Cz + D = 0,
-\)
+$$Ax + By + Cz + D = 0$$
 
 kde $A$, $B$, $C$, $D$ jsou konstanty. Rovnice popisuje rovinu v prostoru.
 

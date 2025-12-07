@@ -42,9 +42,7 @@ Průnik dvou přímek je bod, pokud nejsou rovnoběžné.
 
 Vzdálenost bodu od roviny je dána vzorcem:
 
-\(
-d = \frac{|Ax_1 + By_1 + Cz_1 + D|}{\sqrt{A^2 + B^2 + C^2}},
-\)
+$$d = \frac{|Ax_1 + By_1 + Cz_1 + D|}{\sqrt{A^2 + B^2 + C^2}}$$
 
 kde $(x_1, y_1, z_1)$ je bod a $Ax + By + Cz + D = 0$ je rovnice roviny.
 

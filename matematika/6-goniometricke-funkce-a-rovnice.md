@@ -27,17 +27,11 @@ Definiční obor funkcí sinus a kosinus je množina všech reálných čísel, 
 
 Mezi goniometrickými funkcemi platí základní vztahy, například:
 
-\(
-sin^2 \alpha + cos^2 \alpha = 1,
-\)
+$$sin^2 \alpha + cos^2 \alpha = 1$$
 
-\(
-tan \alpha = \frac{sin \alpha}{cos \alpha},
-\)
+$$tan \alpha = \frac{sin \alpha}{cos \alpha}$$
 
-\(
-cot \alpha = \frac{cos \alpha}{sin \alpha}.
-\)
+$$cot \alpha = \frac{cos \alpha}{sin \alpha}$$
 
 ## **Úprava výrazů s goniometrickými funkcemi**
 
@@ -47,6 +41,4 @@ cot \alpha = \frac{cos \alpha}{sin \alpha}.
 
 Goniometrické rovnice se řeší pomocí základních identit a vlastností funkcí. Například rovnici $sin \alpha = 0.5$ lze řešit jako:
 
-\(
-\alpha = \frac{\pi}{6} + 2k\pi \quad \text{nebo} \quad \alpha = \frac{5\pi}{6} + 2k\pi, \quad k \in \mathbb{Z}.
-\)
+$$\alpha = \frac{\pi}{6} + 2k\pi \quad \text{nebo} \quad \alpha = \frac{5\pi}{6} + 2k\pi, \quad k \in \mathbb{Z}$$

@@ -21,24 +21,18 @@ Logaritmická funkce $f(x) = log_a(x)$ (kde $a > 0$ a $a \neq 1$) je inverzní f
 
 Logaritmus čísla $b$ při základu $a$ je definován jako číslo $x$, pro které platí $a^x = b$. Základní pravidla pro počítání s logaritmy zahrnují:
 
-\[
-\log_a(xy) = \log_a(x) + \log_a(y),
-\]
-
-\[
-\log_a\left(\frac{x}{y}\right) = \log_a(x) - \log_a(y),
-\]
-
-\[
-\log_a(x^k) = k \cdot \log_a(x).
-\]
+$$
+\begin{aligned}
+\log_a(xy) = \log_a(x) + \log_a(y) \\
+\log_a\left(\frac{x}{y}\right) = \log_a(x) - \log_a(y) \\
+\log_a(x^k) = k \cdot \log_a(x)
+\end{aligned}
+$$
 
 ## **Řešení logaritmických rovnic**
 
 Logaritmické rovnice se řeší pomocí úprav výrazů a použití pravidel pro logaritmy. Například rovnici $log_2(x) = 3$ lze řešit jako:
 
-\(
-x = 2^3 = 8.
-\)
+$$x = 2^3 = 8$$
 
 Pokud rovnice obsahuje více logaritmů, je nutné použít pravidla pro jejich slučování nebo rozdělování.

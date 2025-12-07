@@ -18,23 +18,21 @@ Tato stránka může obsahovat chyby.
 
 ## **Parametrické vyjádření přímky**
 
-Parametrické vyjádření přímky je:
+**Parametrické vyjádření přímky** je:
 
-\[
-\vec{r}(t) = \vec{r}_0 + t \cdot \vec{d},
-\]
+$$\vec{r}(t) = \vec{r}_0 + t \cdot \vec{d}$$
 
 kde $\vec{r}_0$ je bod na přímce, $\vec{d}$ je směrový vektor a $t$ je parametr.
 
-Obecná rovnice přímky v rovině je:
+**Obecná rovnice přímky v rovině** je:
 
-\[Ax + By + C = 0,\]
+$$Ax + By + C = 0$$
 
 kde $A$, $B$, $C$ jsou konstanty.
 
-Směrnicový tvar rovnice přímky je:
+**Směrnicový tvar rovnice přímky** je:
 
-\[y = kx + q,\]
+$$y = kx + q$$
 
 kde $k$ je směrnice a $q$ je průsečík s osou $y$.
 
@@ -46,12 +44,12 @@ Přímky mohou být rovnoběžné, protínající se nebo mimoběžné. V rovin�
 
 Odchylka dvou přímek je úhel mezi jejich směrovými vektory. Tento úhel lze vypočítat pomocí skalárního součinu:
 
-\[\cos \alpha = \frac{\vec{u} \cdot \vec{v}}{|\vec{u}| \cdot |\vec{v}|}.\]
+$$\cos \alpha = \frac{\vec{u} \cdot \vec{v}}{|\vec{u}| \cdot |\vec{v}|}$$
 
 ## **Vzdálenost bodu od přímky**
 
 Vzdálenost bodu od přímky v rovině je dána vzorcem:
 
-\[d = \frac{|Ax_1 + By_1 + C|}{\sqrt{A^2 + B^2}},\]
+$$d = \frac{|Ax_1 + By_1 + C|}{\sqrt{A^2 + B^2}}$$
 
 kde $(x_1, y_1)$ je souřadnice bodu a $Ax + By + C = 0$ je rovnice přímky.
