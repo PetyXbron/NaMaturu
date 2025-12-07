@@ -79,7 +79,7 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 - **Matematické prvky** = zemské souřadnice, měřítko, rám
 - **Situace (polohopis)** = bodové, plošné a liniové značky - sídla, vrcholy pohoří, hranice
-- **Reléf (výškopis)**
+- **Reliéf (výškopis)**
   - **Vrstevnice** = čáry spojující místa se stejnou nadmořskou výškou
   - **Kóty** = čísla udávající nadmořskou výšku konkrétního místa
   - **Hypsometrie** = barevné rozlišení výšek nad mořem

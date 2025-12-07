@@ -34,9 +34,8 @@ V důsledku sopečné nebo tektonické činnosti často dochází k zemětřesen
 - **Sopečná**
 - **Tektonická** = nejničivější a nejrosáhlejší
 
-**Hypocentrum** - místo vzniku zemětřesení v hloubce zemské kůry
-**Epicentrum** - místo na zemském povrchu nad hypocentrem
-
+**Hypocentrum** - místo vzniku zemětřesení v hloubce zemské kůry  
+**Epicentrum** - místo na zemském povrchu nad hypocentrem  
 **Richterova stupnice** - měří sílu zemětřesení (1-12)
 
 Stavby se tomu brání:
@@ -83,7 +82,7 @@ Rozdělení pouští:
 
 Vliv člověka na krajinu - antropogenní tvary
 
-- Zemděleství - odlesňování a zorání velkých ploch
+- Zemědělství - odlesňování a zorání velkých ploch
 - Těžba - povrchová, hlubinná
 - Výstavba tunelů, dálnic, měst
 

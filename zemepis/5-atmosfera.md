@@ -36,7 +36,7 @@ ozónová vrstva - chrání nás před slunečním zářením
 ### Planetární dělení
 
 Vzduchová hmota - stejné specifické fyzikální a chemické vlastnosti
-- Rovniková - nejvyšší teploty, nejvyšší vlhkost, stálost - malé výkyvy, tropické deštné lesy
+- Rovníková - nejvyšší teploty, nejvyšší vlhkost, stálost - malé výkyvy, tropické deštné lesy
 - Tropická - nižší vlhkost, savany až pouště
 - Polární - nízké teploty, nízká vlhkost, tajga
 - Arktická - velmi nízké teploty, velmi nízká vlhkost
