@@ -78,9 +78,17 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 ## Obsah map
 
 - **Matematické prvky** = zemské souřadnice, měřítko, rám
-- **Situace** = bodové, plošné a liniové značky - sídla, vrcholy pohoří, hranice
+- **Situace (polohopis)** = bodové, plošné a liniové značky - sídla, vrcholy pohoří, hranice
 - **Reléf (výškopis)**
   - **Vrstevnice** = čáry spojující místa se stejnou nadmořskou výškou
   - **Kóty** = čísla udávající nadmořskou výšku konkrétního místa
   - **Hypsometrie** = barevné rozlišení výšek nad mořem
 - **Doplňkový obsah** = legenda, popis, reklama, rejstřík
+
+#### Hypsometrie
+- nížiny - do 200 m
+- vysočiny - nad 200 m
+
+#### Podle nadmořské výšky
+- roviny - do 30 m
+- pahorkatiy - do 150 m
