@@ -9,6 +9,25 @@ description: Otázka 9 - Planterátní diferenciace biosféry
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 
+## Biosféra
+**Biosféra** je část fyzickogeografické sféry. Její hranice jsou stanoveny tím, kam až dosahuje život.
+Proto zasahuje například do **litosféry**, **pedosféry**, **hydrosféry** a **atmosféry**.  
+Je tvořena z `96,5 %` z kyslíku, uhlíku a vodíku.
+
+![Náčrt biosféry](/media/zemepis/biosfera.jpg "Náčrt biosféry")
+<div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray;">
+Zemská biosféra | Gemini (2025) | AI model Google
+</div>
+
+## Biogeografické faktory
+
+**Biogeografie** jako dílčí vědní disciplína fyzické geografie se zabývá rozšířením rostlin a
+živočichů na Zemi a příčinami, které toto rozšíření podmiňují.
+
+**Biogeografické faktory** určující rozmístění druhů tvoří vzájemná interakce **abiotických** vlivů,
+zejména **klimatu** (teplota, srážky) a **půdy**, s **biotickými** interakcemi, jako je **konkurence** a **predace**.
+Klíčové jsou i **historické události** a **geografické bariéry** omezující migrační schopnost organismů.
+
 Základní jednotkou je **biom**.
 
 ## Rozdělení biomů
