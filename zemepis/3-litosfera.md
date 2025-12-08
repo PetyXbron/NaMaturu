@@ -8,3 +8,14 @@ description: Otázka 3 - Planterátní diferenciace litosféry a geotektonické 
 ::: danger NEDOKONČENO
 Na této stránce ještě stále pracujeme.
 :::
+
+### Složení zemské kůry
+
+Pevninská část - čedič, žula
+Oceánská část - čedič
+
+#### Vrása
+
+Hřbet, koryto
+
+...typy vrás

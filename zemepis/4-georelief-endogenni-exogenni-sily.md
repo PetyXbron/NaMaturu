@@ -34,9 +34,8 @@ V důsledku sopečné nebo tektonické činnosti často dochází k zemětřesen
 - **Sopečná**
 - **Tektonická** = nejničivější a nejrosáhlejší
 
-**Hypocentrum** - místo vzniku zemětřesení v hloubce zemské kůry
-**Epicentrum** - místo na zemském povrchu nad hypocentrem
-
+**Hypocentrum** - místo vzniku zemětřesení v hloubce zemské kůry  
+**Epicentrum** - místo na zemském povrchu nad hypocentrem  
 **Richterova stupnice** - měří sílu zemětřesení (1-12)
 
 Stavby se tomu brání:
@@ -65,10 +64,12 @@ Zlomové pohoří - Vodopád Angel
 
 - Činnost větru - pobřeží, horské oblasti a pouště
 
+- Ron - voda stéká po zemském povrchu a spojuje se
+
 | **Podnebí** | **Hl. modelační činitel** | **Typ zvětrávání** | **Příklady**          |
 |-------------|---------------------------|--------------------|-----------------------|
 | Aridní      | Vítr                      | Mechanické         | Arches, Údolí smrti   |
-| Humidní     | Voda                      | Mech., Chemické    |                       |
+| Humidní     | Voda                      | Mech., Chemické    | Mírný pás, údolí, ... |
 | Nivální     | Sníh, led                 | Mechanické         |                       |
 
 Rozdělení pouští:
@@ -76,3 +77,22 @@ Rozdělení pouští:
 1. Písečná - ERG
 2. Skalnatá - HAMADA
 3. Kamenitá - REG
+
+## Činnost organismů
+
+Vliv člověka na krajinu - antropogenní tvary
+
+- Zemědělství - odlesňování a zorání velkých ploch
+- Těžba - povrchová, hlubinná
+- Výstavba tunelů, dálnic, měst
+
+Příklad těžby v České republice bychom v minulosti našli na západě. Konkrétně pánve - mostecká, chebská a sokolovská.
+Těžilo se tam povrchově hnědé uhlí, to bylo v historii ukončení kvůli lázěnství, protože těžba ohorožovala minerální proudy.
+
+Zoogení tvrary
+- Atoly - vršky sopek v oceánech plných korálů
+- Mravenci a mraveniště
+
+Bio
+- Lesy
+- 

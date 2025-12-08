@@ -13,7 +13,7 @@ Vzniklo v 2. st. v Alexandrii Tolemánosem
 
 **Heliocentrický model**  
 Slunce je středem vesmíru  
-Vzniklo v 16. st. Mikulášem Koperným  
+Vzniklo v 16. st. Mikulášem Koperníkem  
 Země obíhá kolem Slunce po elipse  
 Galileo Galilei a Jan (Johannes) Kepler model podpořili
 
@@ -34,20 +34,23 @@ Přestupný rok - 366 d (každé 4 roky)
 **Perihelium** ("přísluní") - nejbližší bod k Slunci (3. leden)  
 **Afélium** ("odsluní") - nejvzdálenější bod od Slunce (5. červenec)
 
-![Oběh Země kolem Slunce](/media/zemepis/vzdalenost-zeme.png)
+![Oběh Země kolem Slunce (revoluce)](/media/zemepis/vzdalenost-zeme.png "Oběh Země kolem Slunce (revoluce)")
+<div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray;">
+Oběh Země kolem Slunce | Sobotová (1996) | ISBN 80-901942-5-7
+</div>
 
 ### Čas
 
-- **Pásmový** - čas podle časových pásem
+- **Pásmový** - čas podle časových pásem (24, po 15°)
 - **Místní** - čas podle polohy *(např. ČR má X různých časů)*
-- **Dekretový** - čas podle nařízení vlády *(např. celá ČR má jeden čas)*
+- **Dekretový** - čas podle nařízení vlády *(např. celá Čína má jeden čas)*
 
 Každý poledník má svůj **místní čas**. Každých 15° zeměpisné délky odpovídá jedné hodině.  
 1° zeměpisné délky = 4 minuty času
 
 Významný pro místní čas (našeho pásma ČR) je **Jindřichův Hradec**, který leží téměř přesně na **15° zeměpisné délky**,
 ta byla určena pro středoevropský čas. Pokud bychom chtěli vypočítat přesný (místní) čas v Brně, které leží na 16,6° východní délky,
-museli bychom vynýsobit rozdíl stupňů čtyřmi minutami - $1,6 \cdot 4 = 6,4$ minuty k času Jindřichova Hradce.
+museli bychom vynýsobit rozdíl stupňů čtyřmi minutami: $1,6 \cdot 4 = 6,4$ minuty k času Jindřichova Hradce.
 Pokud by bylo v ČR 12:00 (středoevropský čas), v Brně by bylo 12:06:24.
 
 Do rozvoje rychlé dopravy žili lidé podle **místního času**, ale rychlejší pohyb osob si
