@@ -5,30 +5,42 @@ description: Otázka 9 - Planterátní diferenciace biosféry
 
 # **Planterátní diferenciace biosféry**
 
-::: warning STÁLE UPRAVUJEME
-Tato stránka je stále ve vývoji a může se brzy změnit.
-:::
-
-## Biosféra
 **Biosféra** je část fyzickogeografické sféry. Její hranice jsou stanoveny tím, kam až dosahuje život.
 Proto zasahuje například do **litosféry**, **pedosféry**, **hydrosféry** a **atmosféry**.  
 Je tvořena z `96,5 %` z kyslíku, uhlíku a vodíku.
+
+Základní jednotkou je **biom**.
 
 ![Náčrt biosféry](/media/zemepis/biosfera.jpg "Náčrt biosféry")
 <div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray;">
 Zemská biosféra | Gemini (2025) | AI model Google
 </div>
 
+Biosféra se mimo jiné dělí na:
+
+- **Faunu** - soubor živočichů
+- **Flóru** - soubor rostlin
+
+Další pojmy:
+
+- **biota** - souhrn všech živých organismů na Zemi
+- **ekosystém** - soubor živých organismů a jejich prostředí, které na sebe vzájemně působí
+    - **biocenóza** - soubor všech živých organismů v určitém ekosystému
+    - **biotop** - místo, které těmto organismům poskytuje příznivé životní podmínky
+
 ## Biogeografické faktory
 
 **Biogeografie** jako dílčí vědní disciplína fyzické geografie se zabývá rozšířením rostlin a
-živočichů na Zemi a příčinami, které toto rozšíření podmiňují.
+živočichů na Zemi a příčinami, které toto rozšíření zapříčiňují.
 
-**Biogeografické faktory** určující rozmístění druhů tvoří vzájemná interakce **abiotických** vlivů,
+**Biogeografické faktory** určující rozmístění druhů - tvoří vzájemná interakce **abiotických** vlivů,
 zejména **klimatu** (teplota, srážky) a **půdy**, s **biotickými** interakcemi, jako je **konkurence** a **predace**.
 Klíčové jsou i **historické události** a **geografické bariéry** omezující migrační schopnost organismů.
 
-Základní jednotkou je **biom**.
+![Závislost biomů na podnebí](/media/zemepis/biomy-podnebi.jpg "Závislost biomů na podnebí")
+<div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray;">
+Závislost biomů na podnebí | Gemini (2025) | AI model Google
+</div>
 
 ## Rozdělení biomů
 
@@ -52,10 +64,10 @@ Základní jednotkou je **biom**.
         </tr>
         <tr>
             <td colspan="2" class="colored">Světlý ropický les</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Subrovníkové</td>
+            <td>Střídavě vlhký tropický les</td>
+            <td>Tygři, vlci, pandy</td>
+            <td>Od 10° z.š. k obratníkům</td>
         </tr>
         <tr>
             <td colspan="2" class="colored">Savana</td>
@@ -95,10 +107,10 @@ Základní jednotkou je **biom**.
         </tr>
         <tr>
             <td colspan="2" class="colored">Subtropické tvrdolisté dřeviny</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Subtropické</td>
+            <td>Keře, pistácie, tvrdé listy</td>
+            <td>Ptáci, hadi, koaly</td>
+            <td>Středozemí, Japonsko, Florida</td>
         </tr>
         <tr>
             <td colspan="2" class="colored">Step, lesostep</td>
@@ -110,17 +122,17 @@ Základní jednotkou je **biom**.
         <tr>
             <td rowspan="3" class="colored">Lesy mírného pásu</td>
             <td class="colored">Listnaté</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Mírný pás</td>
+            <td>Listnaté lesy</td>
+            <td>Jeleni, srnci, mývaly</td>
+            <td>Záp. a stř. Evropa</td>
         </tr>
         <tr>
             <td class="colored">Smíšené</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Mírný pás</td>
+            <td>Smíšené lesy</td>
+            <td>Jeleni, srnci, prase divoké</td>
+            <td>Záp a stř. Evropa</td>
         </tr>
         <tr>
             <td class="colored">Jehličnaté (tajgy)</td>
@@ -152,3 +164,68 @@ Základní jednotkou je **biom**.
   font-weight: bold !important;
 }
 </style>
+
+## Biogeografické říše a oblasti
+
+![Biogegrafické říše a oblasti](/media/zemepis/biogeograficke-rise.jpg "Biogegrafické říše a oblasti")
+<div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray;">
+Biogegrafické říše | PetyXbron (2025) | Vlastní ilustrace
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <table>
+        <thead>
+            <tr>
+                <th class="colored">Biogeografické říše</th>
+                <th class="colored">Biogeografické oblasti</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="colored" rowspan="6">1 Holoarktická říše</td>
+                <td>a) Arktická</td>
+            </tr>
+            <tr>
+                <td>b) Eurosibiřská</td>
+            </tr>
+            <tr>
+                <td>c) Středomořská</td>
+            </tr>
+            <tr>
+                <td>d) Středoasijská</td>
+            </tr>
+            <tr>
+                <td>e) Čínská</td>
+            </tr>
+            <tr>
+                <td>f) Severoamerická</td>
+            </tr>
+            <tr>
+                <td class="colored">2 Neotropická říše</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="colored" rowspan="3">3 Paleotropická říše</td>
+                <td>a) Etiopská</td>
+            </tr>
+            <tr>
+                <td>b) Kapsko - madagaskarská</td>
+            </tr>
+            <tr>
+                <td>c) Indonéská</td>
+            </tr>
+            <tr>
+                <td class="colored">4 Australská říše</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td class="colored">5 Polynéská říše</td>
+                <td><i>Havajská oblast je vně - vulkanický původ</i></td>
+            </tr>
+            <tr>
+                <td class="colored">6 Antarktická říše</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>

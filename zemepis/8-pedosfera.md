@@ -5,10 +5,6 @@ description: Otázka 8 - Planterátní diferenciace pedosféry
 
 # **Planterátní diferenciace pedosféry**
 
-::: warning STÁLE UPRAVUJEME
-Tato stránka je stále ve vývoji a může se brzy změnit.
-:::
-
 **Pedologie** - zkoumá vznik půdy, vlastnosti a klasifikaci půd  
 **Pedogeografie** - zeměpisná věda, která zkoumá rozmíštění půd na zemském povrchu
 
@@ -23,11 +19,11 @@ Půda se dělí na:
 | Půdní druh       | Popis                                   | Podíl jílovitých částic (%) |
 |------------------|-----------------------------------------|-----------------------------|
 | **Kamenité**     | Kamenité                                | minimální                   |
-| **Písčité**      | Písčité, Hlínitopísčité, píščitohlinité | 0 – 30 %                    |
+| **Písčité**      | Písčité, Hlínitopísčité, píščitohlinité | 0 - 30 %                    |
 | **Hlinité**      | Hlinité                                 | 30 - 45 %                   |
 | **Jílovité**     | Jílovitohlinité, jílovité, jíly         | > 45 %                      |
 
-### 2 Půdní typy - profil půdy (1 m)
+### 2 Půdní horizonty - profil půdy (1 m)
 
 - **Horizont O** - nadložní, organický hmota
 - **Horizont A** - humusová (nejúrodnější) složka
@@ -45,14 +41,17 @@ Půda se dělí na:
 
 Jsou závislé na klimatickém pásu
 
-Černozemě, hnědozemě, ...  
+- **Černozemě** - velmi úrodné, stepi, mírné klima, bohaté na humus.
+- **Hnědozemě** - méně úrodné, mírný pás, listnaté lesy.
+- **Podzolové půdy** - kyselé, méně úrodné, jehličnaté lesy, eluviace.
+- **Rendziny** - na vápencích, bohaté na živiny, vysoké pH, kras.
 
-Ilivuace - vyplavování minerálů z horních vrstev do spodních
-Eluviace - vymývání minerálů ze spodních vrstev do horních
+**Ilivuace** - vyplavování minerálů z horních vrstev do spodních  
+**Eluviace** - vymývání minerálů ze spodních vrstev do horních
 
 #### Azonální půdy
 
-Glejové
-Renziny
-Kambizemě - listnaté lesy  
-?? Podzolové půdy - jehličnaté lesy
+- **Glejové** - vodou nasycené půdy s redukčními podmínkami (glejování), typické pro mokřady a nížiny; šedavé/modrozelené zabarvení, nízká provzdušněnost.
+- **Rendziny** - vznikají na karbonátových horninách (vápence), mělké, bohaté na Ca a humus, vysoké pH.
+- **Kambizemě** - půdy s horizontem přeměny (kambizemní), střední úrodnost, často pod listnatými lesy, dobře provzdušněné a odvodněné.
+- **Nivní (fluviální) půdy** - usazené při záplavách řek, vrstevnaté, velmi úrodné a bohaté na živiny; významné pro zemědělství.
