@@ -1,6 +1,7 @@
 import { loadEnv, defineConfig } from 'vitepress'
 import math from 'markdown-it-katex'
 const env = loadEnv("", process.cwd());
+const currentYear = new Date().getFullYear();
 
 function getSidebar(subject: string) {
 	return require(`./sidebars/${subject}.json`);
@@ -29,6 +30,10 @@ export default defineConfig({
 		],
 
 		sidebar: {
+			'/informatika/': {
+				base: '/informatika/',
+				items: getSidebar('informatika')
+			},
 			'/matematika/': {
 				base: '/matematika/',
 				items: getSidebar('matematika')
@@ -88,7 +93,7 @@ export default defineConfig({
 		},
 
 		footer: {
-			copyright: 'Informace jsou čerpány z volně dostupných zdrojů a mohou obsahovat chyby.<br>Licence <strong>MIT</strong> - Volné použití a šíření<br>© 2025 <strong><a href="https://github.com/PetyXbron" target="_blank">PetyXbron</a></strong>',
+			copyright: `Informace jsou čerpány z volně dostupných zdrojů a mohou obsahovat chyby.<br>Licence <strong>MIT</strong> - Volné použití a šíření<br>© 2025 - ${currentYear.toString()} <strong><a href="https://github.com/PetyXbron" target="_blank">PetyXbron</a></strong>`,
 		}
 	},
 
@@ -98,7 +103,6 @@ export default defineConfig({
 		['meta', { name: 'og:site_name', content: 'NaMaturu' }],
 		['meta', { name: 'twitter:card', content: 'summary' }],
 		['meta', { name: 'theme-color', content: '#1DCD9F' }],
-		['meta', { name: 'robots', content: 'noindex, nofollow, noarchive' }],
 		['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css' }],
 	],
 

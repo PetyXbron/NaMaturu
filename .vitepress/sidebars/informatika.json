@@ -1,0 +1,40 @@
+[
+    {
+        "text": "Sekce 1 - Teorie",
+        "collapsed": true,
+        "items": [
+            { "text": "1 Základy", "link": "1-zaklady" },
+            { "text": "2 Technické vybavení", "link": "2-technicke-vybaveni" },
+            { "text": "3 Start počítače", "link": "3-start-pocitace" },
+            { "text": "4 Periférie", "link": "4-periferie" },
+            { "text": "5 Počítačové sítě", "link": "5-pocitacove-site" },
+            { "text": "6 Programové vybavení", "link": "6-programove-vybaveni" },
+            { "text": "7 Počítačová bezpečnost", "link": "7-pocitacova-bezpecnost" },
+            { "text": "8 Služby internetu", "link": "8-sluzby-internetu" },
+            { "text": "9 Výměna informací na internetu", "link": "9-vymena-informaci-internet" }
+        ]
+    },
+    {
+        "text": "Sekce 2 - Editory",
+        "collapsed": true,
+        "items": [
+            { "text": "10 Zpracování textu", "link": "10-zpracovani-textu" },
+            { "text": "11 Zpracování textu 2", "link": "11-zpracovani-textu-2" },
+            { "text": "12 Grafika", "link": "12-grafika" },
+            { "text": "13 Prezentace", "link": "13-prezentace" },
+            { "text": "14 Multimedia", "link": "14-multimedia" },
+            { "text": "15 Tvorba webu", "link": "15-tvorba-webu" },
+            { "text": "16 Práce s tabulkou", "link": "16-prace-s-tabulkou" },
+            { "text": "17 Grafy a data", "link": "17-grafy-a-data" }
+        ]
+    },
+    {
+        "text": "Sekce 3 - Data",
+        "collapsed": true,
+        "items": [
+            { "text": "18 Databáze", "link": "18-databaze" },
+            { "text": "19 Algoritmizace", "link": "19-algoritmizace" },
+            { "text": "20 Programování", "link": "20-programovani" }
+        ]
+    }
+]
