@@ -17,7 +17,7 @@ Tato stránka může obsahovat chyby.
 
 ## **Soustavy dvou (tří) lineárních rovnic o dvou (třech) neznámých**
 
-Soustavy lineárních rovnic se řeší metodou dosazovací, sčítací nebo maticovou. Například soustava:
+Soustavy lineárních rovnic se řeší metodou dosazovací, sčítací nebo srovnávací. Například soustava:
 
 $$
 \begin{aligned}

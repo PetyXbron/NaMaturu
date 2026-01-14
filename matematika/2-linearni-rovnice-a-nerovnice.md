@@ -40,7 +40,7 @@ Je to **zápis množin všech rovnic**, které bychom získali dosazením všech
 
 
 ::: details Příklad 2.3.1 {open}
-#### $\frac{2 - a}{a} = \frac{2}{x - 1}$ $/ \cdot a(x - 1)$
+#### $\frac{2 - a}{a} = \frac{2}{x - 1}$
 
 ##### Podmínky:
   - $a \neq 0$ (jmenovatel)
@@ -50,7 +50,7 @@ Je to **zápis množin všech rovnic**, které bychom získali dosazením všech
   $\frac{2 - a}{a} = \frac{2}{x - 1}$ $/ \cdot a(x - 1)$  
   $(2 - a)(x - 1) = 2a$  
   $2x - ax - 2 + a = 2a$  
-  $2x - ax = 2a + a + 2$  
+  $2x - ax = 2a - a + 2$  
   $x(2-a) = a + 2$
   
   V tomto případě je řešení rovnice závislé na parametru $a$.  

@@ -13,7 +13,7 @@ description: Otázka 1 - Úprava algebraických výrazů
 
 ## **Definiční obor výrazu** {#1}
 
-Výrazy mají svá pravidla. Některé hodnoty proměnné jsou zakázané - právě ty určuje definiční obor.
+Výrazy mají svá pravidla. Některé hodnoty proměnných jsou zakázané. Právě tyto pravidla určují definiční obor.
 
 **Definiční obor výrazu** = vše, co můžeme dosazovat  
 Definičním oborem výrazu rozumíme **množinu všech čísel**, pro která dokážeme výraz spočítat. Například u zlomků nesmí být jmenovatel roven nule, protože dělení nulou není definováno. U odmocnin zase nesmí být pod odmocninou záporné číslo, pokud pracujeme v oboru reálných čísel.
@@ -36,7 +36,7 @@ Definičním oborem výrazu rozumíme **množinu všech čísel**, pro která do
     Základ mocniny musí být kladný, pokud je proměnná v exponentu.  
     **Příklad:** U výrazu $a^x$ platí podmínka $a > 0$.
 
-5. **Trigonometrické funkce**:  
+5. **Goniometrické funkce**:  
     U některých funkcí je třeba zohlednit omezení na definiční obor.  
     **Příklad:** U výrazu $\tan(x)$ platí podmínka $x \neq \frac{\pi}{2} + k\pi$, kde $k \in \mathbb{Z}$.
 

@@ -17,7 +17,7 @@ Tato stránka může obsahovat chyby.
 Absolutní hodnota čísla $x$, označovaná jako $|x|$, je definována jako:
 
 $|x| = x \quad \text{pro } x \geq 0$  
-$|x| = -x \quad \text{pro } x < 0$
+$|x| = -x \quad \text{pro } x < 0$ (`pozor! nebude záporné, ale tzv. opačné`)
 
 Absolutní hodnota vyjadřuje vzdálenost čísla od nuly na číselné ose.
 

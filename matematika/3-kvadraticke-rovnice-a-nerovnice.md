@@ -31,7 +31,7 @@ Toto téma nám ještě chybí...
 
 ## **Iracionální rovnice** {#4}
 
-Iracionální rovnice jsou rovnice obsahujíci **odmocniny**.  
+Iracionální rovnice jsou takové rovnice, které obsahují **odmocniny**.  
 Při řešení iracionální rovnice se snažíme odmocniny odstranit. Napříkad **umocnění obou stran** rovnice, což je tzv. **[důsledková úprava](/matematika/2-linearni-rovnice-a-nerovnice#2)** a tím pádem musíme provést zkoušku.
 
 
