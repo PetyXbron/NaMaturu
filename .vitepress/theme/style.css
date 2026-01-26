@@ -161,3 +161,7 @@
 strong {
 	color: var(--vp-c-brand-1);
 }
+
+div img {
+  display: unset;
+}
