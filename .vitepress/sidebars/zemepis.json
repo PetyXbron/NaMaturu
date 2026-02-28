@@ -19,9 +19,9 @@
         "collapsed": true,
         "items": [
             { "text": "10 Geografie obyvatelstva a sídel", "link": "10-geografie-obyvatelstva-a-sidel" },
-            { "text": "11 Hospodářství, primární sektor", "link": "11-hospodarstvi-primarni-sektor" },
-            { "text": "12 Hospodářství, sekundární sektor", "link": "12-hospodarstvi-sekundarni-sektor" },
-            { "text": "13 Hospodářství, terciální sektor", "link": "13-hospodarstvi-tercialni-sektor" },
+            { "text": "11 Primární sektor", "link": "11-primer" },
+            { "text": "12 Sekundární sektor", "link": "12-sekunder" },
+            { "text": "13 Terciální sektor", "link": "13-tercier" },
             { "text": "14 Stát", "link": "14-stat" },
             { "text": "15 Mezinárodní integrace", "link": "15-mezinarodni-integrace" }
         ]
