@@ -1,5 +1,5 @@
 import { loadEnv, defineConfig } from 'vitepress'
-import math from 'markdown-it-katex'
+import mathjax3pro from 'markdown-it-mathjax3-pro'
 const env = loadEnv("", process.cwd());
 const currentYear = new Date().getFullYear();
 
@@ -103,12 +103,41 @@ export default defineConfig({
 		['meta', { name: 'og:site_name', content: 'NaMaturu' }],
 		['meta', { name: 'twitter:card', content: 'summary' }],
 		['meta', { name: 'theme-color', content: '#1DCD9F' }],
-		['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css' }],
 	],
+
+	vue: {
+		template: {
+			compilerOptions: {
+				isCustomElement: (tag) => tag.includes('mjx-')
+			}
+		}
+	},
 
 	markdown: {
 		config: (md) => {
-			md.use(math)
+			md.use(mathjax3pro, {
+				tex: {
+					inlineMath: [['$', '$'], ['§', '§']],
+					displayMath: [['$$', '$$'], ['§§', '§§']],
+				},
+				chtml: {
+					fontURL: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2'
+				}
+			})
 		},
+	},
+
+	transformPageData(pageData) {
+		const head = (pageData.frontmatter.head ??= []);
+		const inject_content = pageData.frontmatter.inject_content;
+		if (inject_content && Array.isArray(inject_content)) {
+			inject_content.forEach(item => {
+				const { type, contribution, content } = item;
+				const headEntry = [type, contribution || {}, content || ''].filter(Boolean);
+				head.push(headEntry as HeadConfig);
+			});
+
+			delete pageData.frontmatter.inject_content;
+		}
 	},
 })
