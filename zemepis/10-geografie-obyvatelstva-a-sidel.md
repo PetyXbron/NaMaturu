@@ -92,3 +92,43 @@ Náboženství se může dělit na **světové**, **místní** a **přírodní**
 | **Protestantské** (evangelické) | 900 mil.       | Severní Evropa, Severní Amerika       |
 | **Pravoslavné** (ortodoxní)     | 300 mil.       | Východní Evropa, Rusko, Balkán        |
 | **Anglikánské**                 | 80 mil.        | Velká Británie, Austrálie             |
+
+## Fáze urbanizace
+
+1. **Urbanizace**  
+Proces růstu městského obyvatelstva a rozvoje měst jako center ekonomiky, služeb a kultury.
+Důvody: industrializace, pracovní příležitosti, technologický pokrok.
+Důsledky: koncentrace obyvatelstva, rozvoj infrastruktury, tlak na bydlení a životní prostředí.
+
+2. **Suburbanizace**  
+Přesun obyvatelstva a funkcí z jádra města do příměstských oblastí (sídliště, obytné zóny).
+Charakterizována rozvojem individuální automobilové dopravy, rezidenční výstavbou na okrajích měst a separací bydlení a práce.
+Může vést k rozptýlené zástavbě a potřebě nové infrastruktury.
+
+3. **Dezurbanizace**  
+Pokles počtu obyvatel a ekonomických aktivit v centrálních částech měst, často v důsledku deindustrializace, ekonomického útlumu nebo vnitroměstské degenerace.
+Projevuje se prázdnými objekty, snižováním nabídky služeb a vznikem brownfieldů.
+
+4. **Reurbanizace**  
+Obnova a znovuoživení městských center — investice do bydlení, kultury, služeb a dopravy vedou k návratu obyvatel a firem do centra.
+Často provází gentrifikace (zvýšení cen nemovitostí, sociální posuny).
+Reurbanizace může zahrnovat přestavbu brownfieldů na nové městské funkce.
+
+## Typy sídel (struktury)
+
+- **Aglomerace**  
+Souvislé městské osídlení s dominantním centrem a jeho příměstskou zónou (dojížďka za prací, služby).
+Může být monocentrická (jedno dominantní město) nebo polycentrická (několik měst tvoří společnou aglomeraci).
+
+- **Konurbace**  
+Vzniká splynutím více samostatných měst a obcí do jedné rozsáhlé souvislé městské oblasti; hranice mezi původními sídly se stírají.
+Typické pro průmyslové oblasti, kde expanze a suburbanizace vytvořily spojitost.
+
+- **Megalopolis**  
+Velmi rozsáhlý pás souvislých metropolitních oblastí (řetězec aglomerací) propojených dopravou a ekonomikou přes stovky kilometrů.
+Příkladem je koridor Boston–Washington (BosWash) nebo japonský Tokaidó.
+Charakterizuje se vysokou koncentrací obyvatel, průmyslu a služeb.
+
+- **Brownfieldy**  
+Opustěné nebo málo využívané průmyslové či komerční plochy v městském prostředí, často kontaminované nebo strukturálně zastaralé.
+Mají vysoký potenciál pro regeneraci (rekultivace, výstavba bydlení nebo služeb), ale vyžadují sanaci a investice.
