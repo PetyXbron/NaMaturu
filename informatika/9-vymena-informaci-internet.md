@@ -7,3 +7,7 @@ description: Otázka 9 - Spolupráce a výměna informací na internetu
 
 - Cloudové nástroje, webová úložiště, webové aplikace
 - Sdílení souborů a složek, nastavení práv uživatelů, webové kalendáře
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

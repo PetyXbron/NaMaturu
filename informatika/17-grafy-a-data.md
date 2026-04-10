@@ -7,3 +7,7 @@ description: Otázka 17 - Tabulkový procesor – grafy, třídění a filtrová
 
 - Typy grafů, tvorba grafu, úprava vzhledu grafu, třídění záznamů
 - Filtrování dat, funkce subtotal, makra
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

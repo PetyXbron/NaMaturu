@@ -10,3 +10,7 @@ description: Otázka 15 - Tvorba webu
 - Poskytovatelé služeb pro umístění a provoz webových stránek - providers
 - Základní požadavky na provoz web stránek na domácím počítači
 - Validace a SEO optimalizace HTML stránek
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::

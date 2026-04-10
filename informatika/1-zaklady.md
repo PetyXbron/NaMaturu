@@ -8,3 +8,7 @@ description: Otázka 1 - Základy informatiky a teorie informace, základní jed
 - Základní jednotky informace, pravdivostní tabulka pro zápis logických funkcí
 - Dvojková, desítková a šestnáctková číselná soustava, převody čísel mezi soustavami
 - ASCII a Unicode tabulka znaků
+
+::: danger NEDOKONČENO
+Na této stránce ještě stále pracujeme.
+:::
