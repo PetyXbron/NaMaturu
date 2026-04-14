@@ -27,6 +27,7 @@ export default defineConfig({
 			{ text: '🌍 Zeměpis', link: '/zemepis', activeMatch: '/zemepis/' },
 			{ text: '💻 Informatika', link: '/informatika', activeMatch: '/informatika/' },
 			{ text: '📊 Matematika', link: '/matematika', activeMatch: '/matematika/' },
+			{ text: '🇬🇧 Angličtina', link: '/english', activeMatch: '/english/' },
 		],
 
 		sidebar: {
@@ -41,6 +42,10 @@ export default defineConfig({
 			'/zemepis/': {
 				base: '/zemepis/',
 				items: getSidebar('zemepis')
+			},
+			'/english/': {
+				base: '/english/',
+				items: getSidebar('english')
 			},
 		},
 

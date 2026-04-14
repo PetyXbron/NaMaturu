@@ -16,6 +16,9 @@ hero:
     - theme: brand
       text: 📊 Matematika
       link: /matematika
+    - theme: brand
+      text: 🇬🇧 Angličtina
+      link: /english
   image:
     src: /media/NM.png
     alt: SuroCraft logo
