@@ -1,6 +1,6 @@
 ---
 title: Informatika
-description: Hlavní stránka pro přípravu na maturitu ze zeměpisu
+description: Hlavní stránka pro přípravu na maturitu z informatiky
 ---
 
 # 💻 **Informatika**
