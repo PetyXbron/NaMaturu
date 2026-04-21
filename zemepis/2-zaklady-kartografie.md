@@ -5,9 +5,14 @@ description: Otázka 2 - Základy kartografie
 
 # **Základy kartografie**
 
-**Kartografie** je věda zabývající se tvorbou map. To se týká zemského povrchu i dalších těles ve vesmíru.  
+- Definice mapy. Dělení a vznik map, kartografická zobrazení.
+- Obsah mapy. Měřítko mapy.
+- Dálkový průzkum Země – letecké a družicové snímkování.
+- Navigační systémy. GIS.
 
 ## Pojmy kartografie
+
+**Kartografie** je věda zabývající se tvorbou map. To se týká zemského povrchu i dalších těles ve vesmíru.  
 
 - **Mapa** = zmenšené a zjednodušené znázornění zemského povrchu na rovině pomocí značek a barev.
 - **Geografie** = základní naplnění mapy, tedy to, co na mapě znázorňujeme (např. řeky, hory, města).

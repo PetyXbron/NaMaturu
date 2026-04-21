@@ -5,6 +5,11 @@ description: Otázka 28 - Česká republika - socio-ekonomická charakteristika
 
 # **Česká republika - socio-ekonomická charakteristika**
 
+- Počet obyvatel, hustota zalidnění. Národnostní a náboženská struktura obyvatelstva.
+- Územní jednotky NUTS a LAU.
+- Hospodářská charakteristika a její vývoj – primární, sekundární a terciální sektor.
+- Hlavní jádrové oblasti. Začlenění do mezinárodních integrací.
+
 ## Základní demografické údaje
 
 - **Počet obyvatel:** 10 909 500 *(2024/12)*

@@ -5,6 +5,11 @@ description: Otázka 10 - Geografie obyvatelstva a sídel
 
 # **Geografie obyvatelstva a sídel**
 
+- Vývoj počtu obyvatel. Státy s nejvyšším počtem obyvatel. Rozmístění obyvatelstva na Zemi.
+- Základní demografické ukazatele.
+- Rasová, národnostní a náboženská struktura obyvatelstva.
+- Sídla. Urbanizace. Migrace a její důsledky.
+
 ## Vědní disciplíny
 
 - **Humánní (socioekonomická) geografie** - lidský společnost a její aktivity

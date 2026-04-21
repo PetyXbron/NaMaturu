@@ -5,6 +5,10 @@ description: Otázka 14 - Politická geografie - stát
 
 # **Politická geografie - stát**
 
+- Státní území. Státoprávní uspořádání, formy států.
+- Ukazatele vyspělosti státu.
+- Hlavní oblasti napětí a konfliktů. Nesamostatná území. Mezinárodní území.
+
 ## Státní uzemí
 
 Státní území tvoří **hranice** - umělé nebo přírodní + vzdušný prostor a geologické podloží

@@ -5,6 +5,14 @@ description: Otázka 5 - Planterátní diferenciace atmosféry
 
 # **Planterátní diferenciace atmosféry**
 
+- Vertikální členění atmosféry. Vlastnosti troposféry.
+- Všeobecná cirkulace atmosféry. Pobřežní a horské větry.
+- Atmosférické fronty, vzdušné hmoty, cyklony a anticyklony. Tropické cyklony.
+- Předpověď počasí. Čtení synoptické mapy.
+- Počasí, podnebí, podnebné pásy. Znečištění ovzduší.
+
+---
+
 ::: warning STÁLE UPRAVUJEME
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::

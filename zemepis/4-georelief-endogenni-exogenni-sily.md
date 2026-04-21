@@ -5,6 +5,12 @@ description: Otázka 4 - Georelief, endogenní a exogenní síly, diferenciace g
 
 # **Georelief, endogenní a exogenní síly, diferenciace georeliéfu**
 
+- Georeliéf jako důsledek geologických procesů.
+- Endogenní a exogenní síly.
+- Diferenciace georeliéfu podle nadmořské výšky a podle relativních výškových poměrů.
+
+---
+
 ::: warning STÁLE UPRAVUJEME
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::

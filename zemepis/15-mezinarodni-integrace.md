@@ -5,6 +5,11 @@ description: Otázka 15 - Politická geografie - mezinárodní integrace
 
 # **Politická geografie - mezinárodní integrace**
 
+- Globalizace. Integrace. Celosvětové organizace.
+- Regionální ekonomické integrace. Vojenské integrace.
+
+---
+
 ### Integrace
 
 Pojem **integrace** se používá zhruba od poloviny 20. století a v podstatě znamená

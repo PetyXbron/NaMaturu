@@ -5,6 +5,12 @@ description: Otázka 6 - Planterátní diferenciace hydrosféry - hydrologie pev
 
 # **Planterátní diferenciace hydrosféry - hydrologie pevnin**
 
+- Zásoby vody na Zemi, koloběh vody.
+- Vodní toky, jezera, ledovce a podzemní vody.
+- Důsledky znečišťování povrchových a podpovrchových vod.
+
+---
+
 **Hydrologie pevnin**  
 Je věda, která se zabývá pohybem a rozšířením vody na Zemi, zabývá se také zákonitostmi
 vod na pevnině.

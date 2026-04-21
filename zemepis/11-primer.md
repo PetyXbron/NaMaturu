@@ -5,6 +5,9 @@ description: Otázka 11 - Geografie světového hospodářství - primární sek
 
 # **Geografie světového hospodářství - primární sektor**
 
+- Vymezení a charakteristika sektoru. Vývoj zaměstnanosti v tomto sektoru.
+- Zastoupení sektoru na Zemi a v národních ekonomikách.
+
 ## Sektory hospodářství
 
 - **Primér** - zemědělství, lesnictví, rybolov
@@ -42,3 +45,4 @@ Obilniny, hlizovité plodiny, olejniny, ovoce, zelenina, technické plodiny
 - **Sev. Amerika:** centrální roviny USA
 - **Již. Amerika:** laplacká nížina
 - **Asie:** východočínská nížina, Indie (rýže)
+- **Austrálie:** jihozápad a jihovýchod, obiloviny, chov ovcí

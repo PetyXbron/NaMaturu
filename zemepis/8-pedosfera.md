@@ -5,6 +5,12 @@ description: Otázka 8 - Planterátní diferenciace pedosféry
 
 # **Planterátní diferenciace pedosféry**
 
+- Charakteristika pedosféry. Složení půdy. Půdotvorné procesy.
+- Půdy Země, jejich vlastnosti a rozšíření.
+- Půdy zonální a azonální. Degradace půd. Ochrana půdního fondu.
+
+---
+
 **Pedologie** - zkoumá vznik půdy, vlastnosti a klasifikaci půd  
 **Pedogeografie** - zeměpisná věda, která zkoumá rozmíštění půd na zemském povrchu
 

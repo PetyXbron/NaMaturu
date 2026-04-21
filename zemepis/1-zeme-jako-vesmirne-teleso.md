@@ -5,6 +5,13 @@ description: Otázka 1 - Země jako vesmírné těleso
 
 # **Země jako vesmírné tělěso**
 
+- Země jako součást vesmíru.
+- Tvar, velikost a vlastnosti zemského tělesa.
+- Modely Země. Pohyby Země a jejich důsledky.
+- Čas. Časová pásma, určování času.
+
+---
+
 ### Názory na pozici Země ve vesmíru
 
 **Geocentrický model**  

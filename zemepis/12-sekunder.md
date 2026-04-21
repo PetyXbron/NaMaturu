@@ -5,6 +5,9 @@ description: Otázka 12 - Geografie světového hospodářství - sekundární s
 
 # **Geografie světového hospodářství - sekundární sektor**
 
+- Vymezení a charakteristika sektoru. Vývoj zaměstnanosti v tomto sektoru.
+- Zastoupení sektoru na Zemi a v národních ekonomikách.
+
 ## Sektory hospodářství
 
 - Primér - zemědělství, lesnictví, rybolov

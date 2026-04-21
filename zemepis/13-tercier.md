@@ -5,6 +5,9 @@ description: Otázka 13 - Geografie světového hospodářství - terciální se
 
 # **Geografie světového hospodářství - terciální sektor**
 
+- Vymezení a charakteristika sektoru. Vývoj zaměstnanosti v tomto sektoru.
+- Zastoupení sektoru na Zemi a v národních ekonomikách.
+
 ## Sektory hospodářství
 
 - Primér - zemědělství, lesnictví, rybolov

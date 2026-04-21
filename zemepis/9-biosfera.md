@@ -5,6 +5,13 @@ description: Otázka 9 - Planterátní diferenciace biosféry
 
 # **Planterátní diferenciace biosféry**
 
+- Charakteristika biosféry. Biogeografické faktory.
+- Charakteristika hlavních biomy Země.
+- Výšková stupňovitost.
+- Biogeografické říše a oblasti.
+
+---
+
 **Biosféra** je část fyzickogeografické sféry. Její hranice jsou stanoveny tím, kam až dosahuje život.
 Proto zasahuje například do **litosféry**, **pedosféry**, **hydrosféry** a **atmosféry**.  
 Je tvořena z `96,5 %` z kyslíku, uhlíku a vodíku.

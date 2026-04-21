@@ -5,6 +5,10 @@ description: Otázka 29 - Česká republika - místní region - Jihomoravský kr
 
 # **Česká republika - místní region - Jihomoravský kraj a Brno**
 
+Místní region – vymezení, fyzickogeografická, sociální a ekonomická charakteristika.
+
+---
+
 ::: danger NEDOKONČENO
 Na této stránce ještě stále pracujeme.
 :::
