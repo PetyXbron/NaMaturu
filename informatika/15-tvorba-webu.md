@@ -126,3 +126,41 @@ Jinak dále záleží na správné **užití elementů HTML** (header, content, 
 **meta tagy**, **popisky obrázků** (tzv. *alt text*), **rychlost načítání** (velké fotky),
 **dlouhodobá reputace** a **robots.txt** (pravidla pro prohledávače).
 
+## Ukázkový soubor HTML
+
+```html
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="UTF-8">
+        <title>První webová stránka</title>
+    </head>
+    <body>
+        <h1><u>Hello World</u></h1>
+        <ul>
+            <li>První položka</li>
+            <li><b>Druhá položka</b></li>
+            <li>Třetí položka</li>
+        </ul>
+    </body>
+</html>
+```
+
+### Důležité tagy
+
+- **`!DOCTYPE`:** deklarace typu dokumentu
+- **`html`:** kořenový element
+- **`head`:** hlavička dokumentu (meta informace, title, ...)
+- **`meta`:** meta informace (charset, description, keywords, ...)
+- **`title`:** název stránky (zobrazí se v záložce prohlížeče)
+- **`body`:** tělo dokumentu (viditelný obsah)
+- **`h1 - h6`:** nadpisy různých úrovní
+- **`p`:** odstavec textu
+- **`a`:** odkaz (hyperlink)
+- **`div`:** blokový element pro seskupování obsahu
+- **`hr`:** nečíslovaný oddělovač (horizontální čára)
+- **`b`:** tučný text
+- **`u`:** podtržení textu
+- **`ul`:** nečíslovaný seznam
+- **`ol`:** číslovaný seznam
+- **`li`:** položka seznamu

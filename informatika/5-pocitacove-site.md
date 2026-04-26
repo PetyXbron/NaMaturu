@@ -49,6 +49,11 @@ Síťová zařízení | Gemini (2026) | AI model Google
 - **Router:** lokální síť propojuje s jinou sítí (např. Internetem)
 - **Repeater:** zesiluje signál
 
+::: tip Zajímavost
+Hub už se dnes nepoužívá, protože přenáší data na všechny porty (posílá data všem),
+což může nejenom způsobit kolize a snížit výkon sítě.
+:::
+
 ## Prvky bezdrátové sítě
 
 Home gateway (modem) se skládá z:
@@ -87,3 +92,10 @@ Internet poskytuje různé služby, jako je web, e-mail, sociální sítě, stre
 - **Read (R):** pouze pro čtení
 - **Write (W):** pouze pro zápis
 - **Read/Write (RW):** pro čtení i zápis
+
+## Praktická část
+
+### Zjištění vlastní IP adresy
+
+Příkaz `ipconfig` mi zobrazí informace o síťových adaptérech, můžu zjistit například **IPv4 a IPv6 počítače (lokalní)** a také **adresu routeru**.  
+K tomu lze přidat argumenty jako `ipconfig /all` pro zobrazení všech informací, včetně MAC adresy a dalších detailů.::
