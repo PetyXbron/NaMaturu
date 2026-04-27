@@ -1,6 +1,7 @@
 ---
 title: Severní Afrika a jihozápadní Asie
 description: Otázka 22 - Regionální geografie světa - severní Afrika a jihozápadní Asie
+state: 1
 ---
 
 # **Severní Afrika a jihozápadní Asie**

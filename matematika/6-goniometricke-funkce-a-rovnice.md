@@ -1,6 +1,7 @@
 ---
 title: Goniometrické funkce a rovnice
 description: Otázka 6 - Goniometrické funkce a rovnice
+state: 1
 ---
 
 # **Goniometrické funkce a rovnice**

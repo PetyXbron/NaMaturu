@@ -1,6 +1,7 @@
 ---
 title: My family, daily routine, ...
 description: Question 23 - Me and my family and daily routine, leisure time and hobbies
+state: 0
 ---
 
 # **Me and my family and daily routine, leisure time and hobbies**

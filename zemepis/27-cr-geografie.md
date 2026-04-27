@@ -1,6 +1,7 @@
 ---
 title: ČR - geografie
 description: Otázka 27 - Česká republika - fyzicko-geografická charakteristika
+state: 2
 ---
 
 # **Česká republika - fyzicko-geografická charakteristika**

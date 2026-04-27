@@ -1,6 +1,7 @@
 ---
 title: Lineární rovnice a nerovnice
 description: Otázka 2 - Lineární rovnice a nerovnice
+state: 2
 ---
 
 # **Lineární rovnice a nerovnice**

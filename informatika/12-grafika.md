@@ -1,6 +1,7 @@
 ---
 title: Grafika
 description: Otázka 12 - Počítačová grafika
+state: 2
 ---
 
 # **Počítačová grafika**

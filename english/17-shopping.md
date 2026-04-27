@@ -1,6 +1,7 @@
 ---
 title: Shopping and advertising
 description: Question 17 - Shopping and advertising
+state: 0
 ---
 
 # **Shopping and advertising**

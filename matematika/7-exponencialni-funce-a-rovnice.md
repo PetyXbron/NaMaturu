@@ -1,6 +1,7 @@
 ---
 title: Exponenciální funkce a rovnice
 description: Otázka 7 - Exponenciální funkce a rovnice
+state: 1
 ---
 
 # **Exponenciální funkce a rovnice**

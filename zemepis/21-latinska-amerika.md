@@ -1,6 +1,7 @@
 ---
 title: Latinská Amerika
 description: Otázka 21 - Regionální geografie světa - Latinská Amerika
+state: 1
 ---
 
 # **Latinská Amerika**

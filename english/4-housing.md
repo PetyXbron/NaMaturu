@@ -1,6 +1,7 @@
 ---
 title: Housing
 description: Question 4 - Housing and various places to live
+state: 0
 ---
 
 # **Housing and various places to live**

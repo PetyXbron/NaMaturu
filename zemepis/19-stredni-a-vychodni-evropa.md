@@ -1,6 +1,7 @@
 ---
 title: Střední a východní Evropa
 description: Otázka 19 - Regionální geografie světa - střední a východní Evropa
+state: 1
 ---
 
 # **Střední a východní Evropa**

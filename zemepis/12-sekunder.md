@@ -1,6 +1,7 @@
 ---
 title: Hospodářství, sekundární sektor
 description: Otázka 12 - Geografie světového hospodářství - sekundární sektor
+state: 2
 ---
 
 # **Geografie světového hospodářství - sekundární sektor**

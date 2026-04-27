@@ -1,6 +1,7 @@
 ---
 title: Hydrosféra, světový oceán
 description: Otázka 7 - Planterátní diferenciace hydrosféry - světový oceán
+state: 2
 ---
 
 # **Planterátní diferenciace hydrosféry - světový oceán**

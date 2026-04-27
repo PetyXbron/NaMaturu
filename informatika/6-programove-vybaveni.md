@@ -1,6 +1,7 @@
 ---
 title: Programové vybavení
 description: Otázka 6 - Programové vybavení počítačů
+state: 0
 ---
 
 # **Programové vybavení počítačů**
@@ -12,3 +13,7 @@ description: Otázka 6 - Programové vybavení počítačů
 ::: danger NEDOKONČENO
 Na této stránce ještě stále pracujeme.
 :::
+
+`winware` v hledání ukáže verzi Windows
+OC MS DOS příkazy se spouští přes aplikaci Příkazový řádek (cmd)
+Příkaz `dir` zobrazí obsah adresáře, `cd` změnu adresáře (můžu použít `dir /?`)

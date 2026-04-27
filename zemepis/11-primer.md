@@ -1,6 +1,7 @@
 ---
 title: Hospodářství, primární sektor
 description: Otázka 11 - Geografie světového hospodářství - primární sektor
+state: 2
 ---
 
 # **Geografie světového hospodářství - primární sektor**

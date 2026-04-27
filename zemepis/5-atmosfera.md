@@ -1,6 +1,7 @@
 ---
 title: Atmosféra
 description: Otázka 5 - Planterátní diferenciace atmosféry
+state: 2
 ---
 
 # **Planterátní diferenciace atmosféry**

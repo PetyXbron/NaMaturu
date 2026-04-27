@@ -1,6 +1,7 @@
 ---
 title: Sports and games
 description: Question 24 - Sports and games
+state: 0
 ---
 
 # **Sports and games**

@@ -1,6 +1,7 @@
 ---
 title: Stát
 description: Otázka 14 - Politická geografie - stát
+state: 2
 ---
 
 # **Politická geografie - stát**
@@ -48,7 +49,7 @@ Může to být kníže, car, velkovévoda, sultán, král nebo císař.
     - **Teokracie** - vláda duchovních *[VA]*
     - **Plutokracie** - vláda bohatých *[historicky Benátky]*
 
-::: tip
+::: tip Zajímavost
 <u>Neutrální území</u>: Antarktida (1960) - zákaz těžby, vojenských aktivit, výzkum pouze pro mírové účely
 :::
 

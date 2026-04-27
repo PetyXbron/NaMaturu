@@ -1,6 +1,7 @@
 ---
 title: Jižní a jihovýchodní Evropa
 description: Otázka 18 - Regionální geografie světa - jižní a jihovýchodní Evropa
+state: 1
 ---
 
 # **Jižní a jihovýchodní Evropa**

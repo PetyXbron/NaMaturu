@@ -1,6 +1,7 @@
 ---
 title: Základy informatiky
 description: Otázka 1 - Základy informatiky a teorie informace, základní jednotky
+state: 0
 ---
 
 # **Základy informatiky a teorie informace, základní jednotky**

@@ -1,6 +1,7 @@
 ---
 title: Severní Evropa
 description: Otázka 16 - Regionální geografie světa - severní Evropa
+state: 2
 ---
 
 # **Severní Evropa**
@@ -78,7 +79,7 @@ Mezi závislá území patří:
 - **Ryby** (Island, Norsko, Dánsko)
 - **Hutě, dováží se bauxit na Island** (zajímavost)
 
-:::tip Zajímavost
+::: tip Zajímavost
 Island díky levné vodní a geotermální energii importuje oxid hlinitý (zpracovaný bauxit)
 a přeměňuje ho na hliník. Tento energeticky náročný proces umožňuje ostrovu
 de facto exportovat svou energii v podobě kovu.
@@ -94,7 +95,7 @@ ale k jejímu finálnímu zpracování dochází u polárního kruhu.
 - **Terciér** – služby, cestovní ruch  
 (Norsko – fjordy, Švédsko – Stockholm, Dánsko – Kodaň, Finsko – Helsinky)
 
-:::tip Zajímavost
+::: tip Zajímavost
 Island si s ovocem a zeleninou vystačí skoro sám.
 Může si dovolit geotermální energií vyhřívat skleníky.
 :::

@@ -1,6 +1,7 @@
 ---
 title: Pedosféra
 description: Otázka 8 - Planterátní diferenciace pedosféry
+state: 2
 ---
 
 # **Planterátní diferenciace pedosféry**

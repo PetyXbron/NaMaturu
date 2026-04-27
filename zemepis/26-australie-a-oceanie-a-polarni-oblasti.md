@@ -1,6 +1,7 @@
 ---
 title: Austrálie a Oceánie a polární oblasti
 description: Otázka 26 - Regionální geografie světa - Austrálie a Oceánie, polární oblasti
+state: 0
 ---
 
 # **Austrálie a Oceánie, polární oblasti**

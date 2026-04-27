@@ -1,6 +1,7 @@
 ---
 title: Množiny, výroky, typy
 description: Otázka 25 - Množiny, výroky, typy matematických důkazů
+state: 2
 ---
 
 # **Množiny, výroky, typy matematických důkazů**

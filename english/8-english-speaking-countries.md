@@ -1,6 +1,7 @@
 ---
 title: Other English speaking countries
 description: Question 8 - Other English speaking countries - Australia, New Zealand, Canada, the Republic of Ireland
+state: 0
 ---
 
 # **Other English speaking countries**

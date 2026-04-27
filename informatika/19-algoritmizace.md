@@ -1,6 +1,7 @@
 ---
 title: Algoritmizace
 description: Otázka 19 - Algoritmizace
+state: 0
 ---
 
 # **Algoritmizace**

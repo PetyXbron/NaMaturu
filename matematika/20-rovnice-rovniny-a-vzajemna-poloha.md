@@ -1,6 +1,7 @@
 ---
 title: Rovnice roviny a vzájemná poloha
 description: Otázka 20 - Rovnice roviny, vzájemná poloha přímky a roviny
+state: 1
 ---
 
 # **Rovnice roviny, vzájemná poloha přímky a roviny**

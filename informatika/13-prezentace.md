@@ -1,6 +1,7 @@
 ---
 title: Prezentace
 description: Otázka 13 - Prezentace
+state: 2
 ---
 
 # **Prezentace**

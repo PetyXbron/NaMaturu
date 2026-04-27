@@ -1,6 +1,7 @@
 ---
 title: Multimédia
 description: Otázka 14 - Multimédia
+state: 0
 ---
 
 # **Multimédia**

@@ -1,6 +1,7 @@
 ---
 title: Pravouhlý a obecný trojúhelník
 description: Otázka 11 - Řešení pravouhlého a obecného trojúhelníku
+state: 2
 ---
 
 # **Řešení pravouhlého a obecného trojúhelníku**

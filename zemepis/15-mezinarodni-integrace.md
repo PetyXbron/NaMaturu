@@ -1,6 +1,7 @@
 ---
 title: Mezinárodní integrace
 description: Otázka 15 - Politická geografie - mezinárodní integrace
+state: 2
 ---
 
 # **Politická geografie - mezinárodní integrace**

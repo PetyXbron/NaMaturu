@@ -1,6 +1,7 @@
 ---
 title: Periférie
 description: Otázka 4 - Periférie
+state: 0
 ---
 
 # **Periférie**

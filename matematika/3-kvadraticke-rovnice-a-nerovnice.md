@@ -1,6 +1,7 @@
 ---
 title: Kvadratické rovnice a nerovnice
 description: Otázka 3 - Kvadratické rovnice a nerovnice
+state: 1
 ---
 
 # **Kvadratické rovnice a nerovnice**

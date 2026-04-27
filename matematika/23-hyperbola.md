@@ -1,6 +1,7 @@
 ---
 title: Hyperbola
 description: Otázka 23 - Hyperbola
+state: 2
 ---
 
 # **Hyperbola**

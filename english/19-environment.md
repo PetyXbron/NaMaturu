@@ -1,6 +1,7 @@
 ---
 title: Nature, environment and their protection
 description: Question 19 - Nature, environment and their protection
+state: 0
 ---
 
 # **Nature, environment and their protection**

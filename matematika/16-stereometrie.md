@@ -1,6 +1,7 @@
 ---
 title: Stereometrie
 description: Otázka 16 - Stereometrie
+state: 1
 ---
 
 # **Stereometrie**

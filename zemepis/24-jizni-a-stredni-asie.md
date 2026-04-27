@@ -1,6 +1,7 @@
 ---
 title: Jižní a střední Asie
 description: Otázka 24 - Regionální geografie světa - jižní a střední Asie
+state: 0
 ---
 
 # **Jižní a střední Asie**

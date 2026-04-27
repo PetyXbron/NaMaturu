@@ -1,6 +1,7 @@
 ---
 title: Technické vybavení
 description: Otázka 2 - Technické vybavení počítačů
+state: 2
 ---
 
 # **Technické vybavení počítačů**

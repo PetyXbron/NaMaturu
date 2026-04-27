@@ -1,6 +1,7 @@
 ---
 title: Základy kartografie
 description: Otázka 2 - Základy kartografie
+state: 2
 ---
 
 # **Základy kartografie**

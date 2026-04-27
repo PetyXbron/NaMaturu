@@ -1,6 +1,7 @@
 ---
 title: Země jako vesmírné tělěso
 description: Otázka 1 - Země jako vesmírné těleso
+state: 2
 ---
 
 # **Země jako vesmírné tělěso**

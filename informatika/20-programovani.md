@@ -1,6 +1,7 @@
 ---
 title: Základy programování
 description: Otázka 20 - Základy programování
+state: 0
 ---
 
 # **Základy programování**
@@ -12,3 +13,9 @@ description: Otázka 20 - Základy programování
 ::: danger NEDOKONČENO
 Na této stránce ještě stále pracujeme.
 :::
+
+vývojář záložka
+zaznamenat
+uloží se do modulu
+alt + f11
+uložit jako xlsm

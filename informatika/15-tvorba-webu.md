@@ -1,6 +1,7 @@
 ---
 title: Tvorba webu
 description: Otázka 15 - Tvorba webu
+state: 2
 ---
 
 # **Tvorba webu**

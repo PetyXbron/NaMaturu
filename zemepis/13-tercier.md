@@ -1,6 +1,7 @@
 ---
 title: Hospodářství, terciální sektor
 description: Otázka 13 - Geografie světového hospodářství - terciální sektor
+state: 2
 ---
 
 # **Geografie světového hospodářství - terciální sektor**

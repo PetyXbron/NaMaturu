@@ -1,6 +1,7 @@
 ---
 title: Anglosaska Amerika
 description: Otázka 20 - Regionální geografie světa - Anglosaská Amerika
+state: 1
 ---
 
 # **Anglosaská Amerika**

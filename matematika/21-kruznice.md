@@ -1,6 +1,7 @@
 ---
 title: Kružnice
 description: Otázka 21 - Kružnice
+state: 2
 ---
 
 # **Kružnice**

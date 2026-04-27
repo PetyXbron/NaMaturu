@@ -1,6 +1,7 @@
 ---
 title: Hydrosféra, hydrologie pevnin
 description: Otázka 6 - Planterátní diferenciace hydrosféry - hydrologie pevnin
+state: 2
 ---
 
 # **Planterátní diferenciace hydrosféry - hydrologie pevnin**

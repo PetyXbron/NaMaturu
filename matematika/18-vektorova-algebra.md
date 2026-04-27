@@ -1,6 +1,7 @@
 ---
 title: Vektorová algebra
 description: Otázka 18 - Vektorová algebra
+state: 1
 ---
 
 # **Vektorová algebra**

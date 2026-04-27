@@ -1,6 +1,7 @@
 ---
 title: Databáze
 description: Otázka 18 - Používání a tvorba databází
+state: 0
 ---
 
 # **Používání a tvorba databází**

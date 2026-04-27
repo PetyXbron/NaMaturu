@@ -1,6 +1,7 @@
 ---
 title: Zpracování textu
 description: Otázka 10 - Základy zpracování textu
+state: 0
 ---
 
 # **Základy zpracování textu**

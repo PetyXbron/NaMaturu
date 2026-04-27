@@ -1,6 +1,7 @@
 ---
 title: Přímka v rovině a prostoru
 description: Otázka 19 - Přímka v rovině a prostoru
+state: 1
 ---
 
 # **Přímka v rovině a prostoru**

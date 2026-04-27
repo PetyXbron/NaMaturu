@@ -1,6 +1,7 @@
 ---
 title: Geografie obyvatelstva a sídel
 description: Otázka 10 - Geografie obyvatelstva a sídel
+state: 2
 ---
 
 # **Geografie obyvatelstva a sídel**

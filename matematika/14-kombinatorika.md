@@ -1,6 +1,7 @@
 ---
 title: Kombinatorika
 description: Otázka 14 - Kombinatorika
+state: 2
 ---
 
 # **Kombinatorika**

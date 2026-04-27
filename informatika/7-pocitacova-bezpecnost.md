@@ -1,6 +1,7 @@
 ---
 title: Počítačová bezpečnost
 description: Otázka 7 - Počítačová bezpečnost
+state: 0
 ---
 
 # **Počítačová bezpečnost**

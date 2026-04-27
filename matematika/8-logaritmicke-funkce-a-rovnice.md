@@ -1,6 +1,7 @@
 ---
 title: Logaritmické funkce a rovnice
 description: Otázka 8 - Logaritmické funkce a rovnice
+state: 1
 ---
 
 # **Logaritmické funkce a rovnice**

@@ -1,6 +1,7 @@
 ---
 title: Elipsa
 description: Otázka 22 - Elipsa
+state: 2
 ---
 
 # **Elipsa**

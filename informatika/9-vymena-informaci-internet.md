@@ -1,6 +1,7 @@
 ---
 title: Výměna informací na internetu
 description: Otázka 9 - Spolupráce a výměna informací na internetu
+state: 0
 ---
 
 # **Spolupráce a výměna informací na internetu**

@@ -1,6 +1,7 @@
 ---
 title: Práce s tabulkou
 description: Otázka 16 - Tabulkový procesor – práce s tabulkou
+state: 2
 ---
 
 # **Tabulkový procesor – práce s tabulkou**

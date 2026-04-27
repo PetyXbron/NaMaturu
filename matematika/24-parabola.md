@@ -1,6 +1,7 @@
 ---
 title: Parabola
 description: Otázka 24 - Parabola
+state: 1
 ---
 
 # **Parabola**

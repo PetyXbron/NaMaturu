@@ -1,6 +1,7 @@
 ---
 title: Rovnice s absolutní hodnotou
 description: Otázka 4 - Rovnice a nerovnice s absolutní hodnotou
+state: 1
 ---
 
 # **Rovnice a nerovnice s absolutní hodnotou**

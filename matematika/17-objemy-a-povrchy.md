@@ -1,6 +1,7 @@
 ---
 title: Objemy a povrchy
 description: Otázka 17 - Objemy a povrchy těles
+state: 2
 ---
 
 # **Objemy a povrchy těles**

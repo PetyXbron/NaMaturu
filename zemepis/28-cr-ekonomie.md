@@ -1,6 +1,7 @@
 ---
 title: ČR - ekonomie
 description: Otázka 28 - Česká republika - socio-ekonomická charakteristika
+state: 2
 ---
 
 # **Česká republika - socio-ekonomická charakteristika**

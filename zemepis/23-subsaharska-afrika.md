@@ -1,6 +1,7 @@
 ---
 title: Subsaharská Afrika
 description: Otázka 23 - Regionální geografie světa - Subsaharská Afrika
+state: 1
 ---
 
 # **Subsaharská Afrika**

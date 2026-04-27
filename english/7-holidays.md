@@ -1,6 +1,7 @@
 ---
 title: Ways of spending holidays
 description: Question 7 - Ways of spending holidays
+state: 0
 ---
 
 # **Ways of spending holidays**

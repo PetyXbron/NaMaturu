@@ -1,6 +1,7 @@
 ---
 title: Západní Evropa
 description: Otázka 17 - Regionální geografie světa - západní Evropa
+state: 1
 ---
 
 # **Západní Evropa**

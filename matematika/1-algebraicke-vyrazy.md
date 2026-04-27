@@ -1,6 +1,7 @@
 ---
 title: Algebraické výrazy
 description: Otázka 1 - Úprava algebraických výrazů
+state: 2
 ---
 
 # **Úprava algebraických výrazů**

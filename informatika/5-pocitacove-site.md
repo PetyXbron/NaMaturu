@@ -1,6 +1,7 @@
 ---
 title: Počítačové sítě
 description: Otázka 5 - Počítačové sítě
+state: 2
 ---
 
 # **Počítačové sítě**

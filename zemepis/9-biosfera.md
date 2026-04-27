@@ -1,6 +1,7 @@
 ---
 title: Biosféra
 description: Otázka 9 - Planterátní diferenciace biosféry
+state: 2
 ---
 
 # **Planterátní diferenciace biosféry**

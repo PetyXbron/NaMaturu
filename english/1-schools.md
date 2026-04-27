@@ -1,6 +1,7 @@
 ---
 title: Schools and studies
 description: Question 1 - Schools and studies
+state: 0
 ---
 
 # **Schools and studies**
