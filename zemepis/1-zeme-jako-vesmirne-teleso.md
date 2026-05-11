@@ -11,7 +11,7 @@ state: 2
 - Modely Země. Pohyby Země a jejich důsledky.
 - Čas. Časová pásma, určování času.
 
----
+## Země jako součást vesmíru
 
 ### Názory na pozici Země ve vesmíru
 
@@ -25,29 +25,54 @@ Vzniklo v 16. st. Mikulášem Koperníkem
 Země obíhá kolem Slunce po elipse  
 Galileo Galilei a Jan (Johannes) Kepler model podpořili
 
+### Sluneční soustava
+
+**Sluneční soustava** je tvořena Sluncem a tělesy, která kolem něj obíhají.  
+**Pořadí planet od Slunce:** Merkur, Venuše, Země, Mars, Jupiter, Saturn, Uran a Neptun.  
+Součástí jsou i trpasličí planety, měsíce, planetky a komety.
+
+## Tvar, velikost a vlastnosti zemského tělesa
+
+**Geodid**  
+Skutečný, nematematický tvar Země.  
+Představuje klidnou hladinu oceánů protaženou pod pevniny.
+
+**Referenční elipsoid**  
+Matematický model, který se přibližuje geoidu, určený pro výpočty a mapování.  
+*Typy v praxi:* **WGS-84** pro GPS, **Besselův elipsoid** pro mapování ČR
+
+**Referenční koule**  
+Má stejný objem a povrch jako referenční elipsoid. Poloměr je 6 371 km.  
+Využívá se pro zjednodušené školní modely a mapy malých měřítek.
+
 ## Pohyby Země
 
 Zákony o pohybu planet - Jan Keppler a Isaac Newton v 17. st.
 
-- **Rotace** = den/noc (Země kolem své osy)  
+**Rotace** = den/noc (Země kolem své osy)  
 Hvězdný den - 23 h 56 m 4 s  
 Střední sluneční den - 24 h
-- **Revoluce** = roční období (Země obíhá kolem Slunce)  
-Tropický rok - 365 d 5 h 48 m 45 s  
+
+**Revoluce** = roční období (Země obíhá kolem Slunce)  
+Tropický rok - 365 d 5 h 48 m 45 s [~ 365 d 6 h]  
 Kalendářní rok - 365 d  
 Přestupný rok - 366 d (každé 4 roky)
-- **Precese** = doba ledová a meziledová, změna polohy pólů [27 tisíc let]  
-- **Nutace** = chladnější a teplejší období [18,6 let]
+
+**Nutace** = chladnější a teplejší období [18,6 let]  
+**Precese** = doba ledová a meziledová, změna polohy pólů [27 tisíc let]
+
+#### Polohy Země
 
 **Perihelium** ("přísluní") - nejbližší bod k Slunci (3. leden)  
 **Afélium** ("odsluní") - nejvzdálenější bod od Slunce (5. červenec)
 
+Nákres pro revoluční pohyb:
 ![Oběh Země kolem Slunce (revoluce)](/media/zemepis/vzdalenost-zeme.png "Oběh Země kolem Slunce (revoluce)")
 <div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray;">
 Oběh Země kolem Slunce | Sobotová (1996) | ISBN 80-901942-5-7
 </div>
 
-### Čas
+## Čas
 
 - **Pásmový** - čas podle časových pásem (24, po 15°)
 - **Místní** - čas podle polohy *(např. ČR má X různých časů)*

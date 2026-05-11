@@ -30,7 +30,7 @@ Tečna ke kružnici z bodu $T[x_0, y_0]$ je:
 
 ## **Vzájemná poloha přímky a kružnice** {#3}
 
-Přímka může být s kružnicí rovnoběžná, dotýkat se jí nebo ji protínat.  
+Přímka může se může kružnice dotýkat, protínat nebo ležet mimo ni.  
 Poloha závisí na vzdálenosti středu kružnice od přímky ve vztahu k poloměru kružnice.
 
 - $p \cap k = \emptyset$  
