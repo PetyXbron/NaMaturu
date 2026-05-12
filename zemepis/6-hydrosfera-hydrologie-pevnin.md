@@ -20,6 +20,22 @@ vod na pevnině.
 Je to věda zabývající se vztahy mezi hydrosférou (vodním obalem Země) a ostatními složkami
 fyzickogeografické sféry (jako např. litosférou, pedosférou, biosférou a atmosférou).
 
+## Zásoby vody na Zemi, koloběh vody
+
+- **Oceány** - 97,5 % (slaná voda)
+- **Sladká voda** - 2,5 %
+    - **Ledovce a trvalé sněhové pokrývky** - 68,7 %
+    - **Podzemní voda** - 30,1 %
+    - **Povrchová voda** - 0,3 % (řeky, jezera, bažiny)
+    - **Atmosférická voda** - 0,9 %
+
+### Koloběh vody
+
+Hydrologický cyklus probíhá neustále. Jeho hlavní příčinou je sluneční záření. Dělí se na:
+
+- **Velký koloběh** - odehrává se mezi oceány, atmosférou a pevninou
+- **Malý koloběh** - pouze nad pevninou nebo pouze nad oceány
+
 ## Řeky a říční sítě
 
 - **Říční síť** - uspořádání vodních toků v povodí
@@ -117,31 +133,21 @@ Pirátství | Sobotová (1996) | ISBN 80-901942-5-7
 **Rybníky** - uměle vytvořená jezera - ryby, zásoba vody, zábava  
 **Přehrady** - zásoba vody, výroba energie, ochrana proti povodním, zábava
 
-- **Tektonická**
-- **Sopečná**
-- **Ledovcová**
+- **Tektonická**  
+Bajkal, Kaspické moře, a jezera na východě Afriky (africká x somálská deska)
+- **Sopečná**  
+Viktoriino jezero
+- **Ledovcová**  
+jezera v Aplách, Tatrách, nebo u Salzburgu (Mondsee)
+- **Krasová**  
+Macošské jezero
 - **Hrazená**
 - **Říční**
 - **Limanová**
-- **Krasová**
 
 ![Druhy jezer](/media/zemepis/jezera.png "Druhy jezer")
 <div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray;">
 Jezera | Sobotová (1996) | ISBN 80-901942-5-7
-</div>
-
-## Podpovrchová voda
-
-**Závrt** - propadání povrchu do podzemí (rozpouštěním podzemních rozpustných hornin)
-
-- **Průlinová** - zrníčka obklopena
-- **Puklinová** - pukliny v hornině zatopeny
-- **Krasová**
-- **Artézská** - pod tlakem mezi dvěma nepropustnými vrstvami
-
-![Artézská voda](/media/zemepis/artezska-voda.png "Artézská voda")
-<div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray;">
-Sobotová (1996) | ISBN 80-901942-5-7
 </div>
 
 ## Ledovce
@@ -156,3 +162,16 @@ Sobotová (1996) | ISBN 80-901942-5-7
 
 sníh -> firn -> firnový led -> ledovcový led
 
+## Podpovrchová voda
+
+**Závrt** - propadání povrchu do podzemí (rozpouštěním podzemních rozpustných hornin)
+
+- **Průlinová** - zrníčka obklopena
+- **Puklinová** - pukliny v hornině zatopeny
+- **Krasová**
+- **Artézská** - pod tlakem mezi dvěma nepropustnými vrstvami
+
+![Artézská voda](/media/zemepis/artezska-voda.png "Artézská voda")
+<div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray;">
+Sobotová (1996) | ISBN 80-901942-5-7
+</div>
