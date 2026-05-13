@@ -35,3 +35,8 @@ features:
     details: Web s přehledným designem, který je snadno použitelný na všech zařízeních.
 ---
 
+<script setup>
+import Changelog from './.vitepress/theme/components/Changelog.vue'
+</script>
+
+<Changelog />

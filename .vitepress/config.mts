@@ -1,5 +1,6 @@
-import { loadEnv, defineConfig } from 'vitepress'
-import mathjax3pro from 'markdown-it-mathjax3-pro'
+import { loadEnv, defineConfig, type HeadConfig } from 'vitepress';
+import mathjax3pro from 'markdown-it-mathjax3-pro';
+import changelogPlugin from './theme/plugins/NaMaturuChangelog';
 const env = loadEnv("", process.cwd());
 const currentYear = new Date().getFullYear();
 
@@ -20,6 +21,10 @@ export default defineConfig({
 		hostname: env.VITE_hostname
 	},
 
+	vite: {
+		plugins: [changelogPlugin()]
+	},
+
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
@@ -29,6 +34,8 @@ export default defineConfig({
 			{ text: '📊 Matematika', link: '/matematika', activeMatch: '/matematika/' },
 			{ text: '🇬🇧 Angličtina', link: '/english', activeMatch: '/english/' },
 		],
+
+		logo: '/media/NM.png',
 
 		sidebar: {
 			'/informatika/': {
@@ -51,7 +58,7 @@ export default defineConfig({
 
 		socialLinks: [
 			{ icon: 'github', link: 'https://github.com/PetyXbron/NaMaturu' },
-			{ icon: 'minutemailer', link: `mailto:${env.VITE_email}` },
+			{ icon: 'gmail', link: `mailto:${env.VITE_email}` },
 		],
 
 		lastUpdated: {
@@ -113,13 +120,13 @@ export default defineConfig({
 	vue: {
 		template: {
 			compilerOptions: {
-				isCustomElement: (tag) => tag.includes('mjx-')
+				isCustomElement: (tag: string) => tag.includes('mjx-')
 			}
 		}
 	},
 
 	markdown: {
-		config: (md) => {
+		config: (md: any) => {
 			md.use(mathjax3pro, {
 				tex: {
 					inlineMath: [['$', '$'], ['§', '§']],
@@ -128,11 +135,11 @@ export default defineConfig({
 				chtml: {
 					fontURL: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2'
 				}
-			})
+			});
 		},
 	},
 
-	transformPageData(pageData) {
+	transformPageData(pageData: any) {
 		const head = (pageData.frontmatter.head ??= []);
 		const inject_content = pageData.frontmatter.inject_content;
 		if (inject_content && Array.isArray(inject_content)) {
@@ -145,4 +152,4 @@ export default defineConfig({
 			delete pageData.frontmatter.inject_content;
 		}
 	},
-})
+});
