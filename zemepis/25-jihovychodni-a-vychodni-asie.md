@@ -2,6 +2,10 @@
 title: Jihovýchodní a východní Asie
 description: Otázka 25 - Regionální geografie světa - jihovýchodní a východní Asie
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Regionální geografie světa - jihovýchodní a východní Asie**

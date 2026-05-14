@@ -2,6 +2,10 @@
 title: Pravděpodobnost a statistika
 description: Otázka 15 - Pravděpodobnost a statistika
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Pravděpodobnost a statistika**

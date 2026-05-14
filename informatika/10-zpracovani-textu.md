@@ -2,6 +2,10 @@
 title: Zpracování textu
 description: Otázka 10 - Základy zpracování textu
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Základy zpracování textu**

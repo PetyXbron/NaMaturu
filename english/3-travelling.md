@@ -2,6 +2,10 @@
 title: Travelling
 description: Question 3 - Travelling and means of transport
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Travelling and means of transport**

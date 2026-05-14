@@ -2,6 +2,10 @@
 title: Periférie
 description: Otázka 4 - Periférie
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Periférie**

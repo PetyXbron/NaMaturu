@@ -2,6 +2,10 @@
 title: Multimédia
 description: Otázka 14 - Multimédia
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Multimédia**

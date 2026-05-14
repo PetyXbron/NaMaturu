@@ -2,6 +2,10 @@
 title: Clothing and fashion
 description: Question 2 - Clothing and fashion
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Clothing and fashion**

@@ -2,6 +2,10 @@
 title: Databáze
 description: Otázka 18 - Používání a tvorba databází
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Používání a tvorba databází**

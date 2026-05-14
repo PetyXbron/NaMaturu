@@ -2,6 +2,10 @@
 title: People in the modern world
 description: Question 5 - People in the modern world
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **People in the modern world**

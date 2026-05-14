@@ -2,6 +2,10 @@
 title: Litosféra
 description: Otázka 3 - Planetární diferenciace litosféry a geotektonické hypotézy
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Planetární diferenciace litosféry a geotektonické hypotézy**

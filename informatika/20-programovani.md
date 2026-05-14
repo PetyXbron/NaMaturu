@@ -2,6 +2,10 @@
 title: Základy programování
 description: Otázka 20 - Základy programování
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Základy programování**

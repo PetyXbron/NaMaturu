@@ -2,6 +2,7 @@
 title: Matematika
 description: Hlavní stránka pro přípravu na maturitu z matematiky
 state: 2
+lastUpdated: false
 ---
 
 <script setup>

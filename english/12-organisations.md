@@ -2,6 +2,10 @@
 title: Important international organisations
 description: Question 12 - Important international organisations
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Important international organisations**

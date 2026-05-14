@@ -2,6 +2,10 @@
 title: Likes and dislikes of my hometown
 description: Question 14 - Likes and dislikes of my hometown
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Likes and dislikes of my hometown**

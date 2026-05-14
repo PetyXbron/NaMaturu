@@ -2,6 +2,10 @@
 title: Algoritmizace
 description: Otázka 19 - Algoritmizace
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Algoritmizace**

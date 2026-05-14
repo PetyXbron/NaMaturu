@@ -2,6 +2,10 @@
 title: Ways of spending holidays
 description: Question 7 - Ways of spending holidays
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Ways of spending holidays**

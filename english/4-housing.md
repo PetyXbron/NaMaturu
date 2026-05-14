@@ -2,6 +2,10 @@
 title: Housing
 description: Question 4 - Housing and various places to live
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Housing and various places to live**

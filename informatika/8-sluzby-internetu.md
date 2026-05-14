@@ -2,6 +2,10 @@
 title: Služby internetu
 description: Otázka 8 - Služby internetu
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Služby internetu**

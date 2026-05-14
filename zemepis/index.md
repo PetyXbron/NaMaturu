@@ -2,6 +2,7 @@
 title: Zeměpis
 description: Hlavní stránka pro přípravu na maturitu ze zeměpisu
 state: 2
+lastUpdated: false
 ---
 
 <script setup>

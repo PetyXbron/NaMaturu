@@ -2,6 +2,10 @@
 title: The Czech Republic
 description: Question 10 - The Czech Republic
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **The Czech Republic**

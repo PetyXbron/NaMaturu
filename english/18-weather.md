@@ -2,6 +2,10 @@
 title: Weather and natural disasters
 description: Question 18 - Weather and climate; natural disasters
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Weather and climate; natural disasters**

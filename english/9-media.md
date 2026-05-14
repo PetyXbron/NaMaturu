@@ -2,6 +2,10 @@
 title: Mass media
 description: Question 9 - Mass media and communication
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Mass media and communication**

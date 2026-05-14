@@ -2,6 +2,10 @@
 title: National stereotypes
 description: Question 15 - National stereotypes, lifestyles, languages and international etiquette
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **National stereotypes, lifestyles, languages and international etiquette**

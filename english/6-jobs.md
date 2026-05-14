@@ -2,6 +2,10 @@
 title: Jobs and future plans
 description: Question 6 - Jobs and future plans
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Jobs and future plans**

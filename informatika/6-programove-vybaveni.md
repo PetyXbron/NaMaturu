@@ -2,6 +2,10 @@
 title: Programové vybavení
 description: Otázka 6 - Programové vybavení počítačů
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Programové vybavení počítačů**

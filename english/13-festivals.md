@@ -2,6 +2,10 @@
 title: Festivals and holidays
 description: Question 13 - Festivals and national holidays
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Festivals and national holidays**

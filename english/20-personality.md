@@ -2,6 +2,10 @@
 title: An outstanding personality
 description: Question 20 - An outstanding personality in culture or art and/or his/her work
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **An outstanding personality in culture or art and/or his/her work**

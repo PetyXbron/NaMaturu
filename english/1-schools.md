@@ -2,6 +2,10 @@
 title: Schools and studies
 description: Question 1 - Schools and studies
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Schools and studies**

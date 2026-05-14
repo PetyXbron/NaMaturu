@@ -2,6 +2,10 @@
 title: The United States of America
 description: Question 11 - The United States of America
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **The United States of America**

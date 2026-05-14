@@ -2,6 +2,10 @@
 title: Shopping and advertising
 description: Question 17 - Shopping and advertising
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Shopping and advertising**

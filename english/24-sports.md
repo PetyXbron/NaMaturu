@@ -2,6 +2,10 @@
 title: Sports and games
 description: Question 24 - Sports and games
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Sports and games**

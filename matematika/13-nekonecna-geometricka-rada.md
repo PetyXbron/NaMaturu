@@ -2,6 +2,10 @@
 title: Nekonečná geometrická řada
 description: Otázka 13 - Geometrická posloupnost, nekonečná geometrická řada
 state: 0
+head:
+  - - meta
+    - name: robots
+      content: noindex
 ---
 
 # **Geometrická posloupnost, nekonečná geometrická řada**
