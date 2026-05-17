@@ -105,7 +105,15 @@ export default defineConfig({
 		},
 
 		footer: {
-			copyright: `Informace jsou čerpány z volně dostupných zdrojů a mohou obsahovat chyby.<br>Licence <strong>MIT</strong> - Volné použití a šíření<br>© 2025 - ${currentYear.toString()} <strong><a href="https://github.com/PetyXbron" target="_blank">PetyXbron</a></strong>`,
+			copyright:
+				`Informace jsou čerpány z volně dostupných zdrojů a mohou obsahovat chyby.
+				<br>
+				Licence
+				<strong><u><a href="https://github.com/PetyXbron/NaMaturu/blob/master/LICENSE" target="_blank">MIT</a></u></strong>
+				- Volné použití a šíření
+				<br>
+				© 2025 - ${currentYear.toString()}
+				<strong><u><a href="https://github.com/PetyXbron" target="_blank">PetyXbron</a></u></strong>`,
 		}
 	},
 
