@@ -6,7 +6,7 @@ state: 1
 
 # **Střední a východní Evropa**
 
-- Přírodní podmínky – geologický vývoj, základní geomorfologické celky, klimatické a hydrologické poměry.
+- Přírodní podmínky - geologický vývoj, základní geomorfologické celky, klimatické a hydrologické poměry.
 - Sociálně ekonomické podmínky.
 - Postavení makroregionu v globálním měřítku.
 
@@ -30,7 +30,7 @@ Na této stránce ještě stále pracujeme.
 
 ### Klimatické a hydrologické poměry
 
-#### Půdy
+### Půdy
 
 ## Sociálně ekonomické podmínky
 
@@ -61,3 +61,22 @@ Na této stránce ještě stále pracujeme.
 
 - PIGS (Portugalsko, Itálie, Řecko, Španělsko) - vysoce zadlužené
 
+### Postavení jednotlivých zemí
+
+| Demografický ukazatel      | Průměrná hodnota    | Hodnocení                     |
+|---------------------------:|---------------------|-------------------------------|
+| **Porodnost**              | 10 ‰                | <code class="cwhite">o</code> |
+| **Úmrtnost**               | 13 ‰                | <code class="cred">-</code>   |
+| **Přirozený přírůstek**    | -3 ‰                | <code class="cred">--</code>  |
+| **Úhrnná plodnost**        | 1,5                 | <code class="cred">--</code>  |
+| **Kojenecká úmrtnost**     | 4 ‰                 | <code class="cwhite">o</code> |
+| **Naděje dožití**          | 76 let              | <code class="cred">-</code>   |
+| **Věkové pyramidy**        | regresivní          | <code class="cred">-</code>   |
+| **Migrační saldo**         | 0                   | <code class="cwhite">o</code> |
+
+| Socioekonomický ukazatel   | Průměrná hodnota    | Hodnocení                     |
+|---------------------------:|---------------------|-------------------------------|
+| **PPP (HDP na obyv.)**     | 30 000 $            | <code class="cred">-</code>   |
+| **HDI**                    | 0,84                | <code class="cred">-</code>   |
+| **Gini index**             | 0,31                | <code class="cwhite">o</code> |
+| **Míra urbanizace**        | 70 %                | <code class="cred">-</code>   |

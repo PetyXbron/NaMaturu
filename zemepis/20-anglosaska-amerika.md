@@ -6,7 +6,7 @@ state: 1
 
 # **Anglosaská Amerika**
 
-- Přírodní podmínky – geologický vývoj, základní geomorfologické celky, klimatické a hydrologické poměry.
+- Přírodní podmínky - geologický vývoj, základní geomorfologické celky, klimatické a hydrologické poměry.
 - Sociálně ekonomické podmínky.
 - Postavení makroregionu v globálním měřítku.
 
@@ -22,13 +22,13 @@ Na této stránce ještě stále pracujeme.
 
 - Severní Amerika končí Tehuantepeckou šíji
 - Na východě stále pokračují endogenní síly a jižní část je nejvyšší a nejmladší
-- Západ – Kanadský štít, brazilský štít – (v Sev. Amer. formoval ledovec) docházelo stále k erozi
+- Západ - Kanadský štít, brazilský štít - (v Sev. Amer. formoval ledovec) docházelo stále k erozi
 
 ### Geomorfologické celky
 
-- Střed – rozsáhlé nížiny, řeka Mississippi, řeka Missouri, řeka Ohio
-- Nejvyšší hora – Mount McKinley (Denali) 6194 m n. m.
-- Kanadský štít, Appalačské pohoří – na západě, starší, erodované
+- Střed - rozsáhlé nížiny, řeka Mississippi, řeka Missouri, řeka Ohio
+- Nejvyšší hora - Mount McKinley (Denali) 6194 m n. m.
+- Kanadský štít, Appalačské pohoří - na západě, starší, erodované
 
 ### Klimatické a hydrologické poměry
 
@@ -38,21 +38,21 @@ Na této stránce ještě stále pracujeme.
 #### Vliv hurikánů a tornád
 
 - Ve střední Americe často dochází ke střídání studeného a teplého vzduchu, což vzniká tornáda
-- Hurikány jdou od moře, postihují východní pobřeží, kdy je nejteplejší moře – podzim
+- Hurikány jdou od moře, postihují východní pobřeží, kdy je nejteplejší moře - podzim
 
 #### Vodstvo
 
 ##### Řeky
 
-- Úmoří Atlantské – Mississippi, Missouri, Ohio
-- Úmoří Tichého – Colorado, Rio Grande
-- Úmoří Severního ledového oceánu – Mackenzie, Yukon
+- Úmoří Atlantské - Mississippi, Missouri, Ohio
+- Úmoří Tichého - Colorado, Rio Grande
+- Úmoří Severního ledového oceánu - Mackenzie, Yukon
 
 ##### Jezera
 
-- Velká jezera – 1/3 zásob sladké vody, i ledovcového původu
+- Velká jezera - 1/3 zásob sladké vody, i ledovcového původu
 
-#### Půdy
+### Půdy
 
 ::: warning STÁLE UPRAVUJEME
 Tato stránka je stále ve vývoji a může se brzy změnit.
@@ -62,11 +62,11 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 ### Struktura obyvatel
 
-- Původní obyvatelstvo – Indiáni, Eskymáci, Aleuti
+- Původní obyvatelstvo - Indiáni, Eskymáci, Aleuti
 - Přišli přes Beringovu úžinu (průliv) z Asie
-- Nejvyspělejší kmeny – Mayové, Aztékové, Inkové
-- Meztici – smíšené rasy Evropana a Indiána
-- Mulati – smíšené rasy Evropana a černocha
+- Nejvyspělejší kmeny - Mayové, Aztékové, Inkové
+- Meztici - smíšené rasy Evropana a Indiána
+- Mulati - smíšené rasy Evropana a černocha
 
 #### Kolonizace
 
@@ -76,11 +76,11 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 #### Náboženství
 
-- Nejvíce křesťanů – katolíci, protestanti
+- Nejvíce křesťanů - katolíci, protestanti
 
 #### Hustota obyvatelstva
 
-- Megalopolis – pás měst od Bostonu po Washington D.C. – 50 mil. obyvatel
+- Megalopolis - pás měst od Bostonu po Washington D.C. - 50 mil. obyvatel
 
 ### Politické a ekonomické poměry
 
@@ -95,11 +95,11 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 - Většina obyvatel žije v pásu 300 km od hranice s USA (sever minimálně)
 - 10 provincií, 3 teritoria
-- Hl. město – Ottawa
+- Hl. město - Ottawa
 
 ##### Hospodářství
 
-- Průmyslová základna – Ontario, Quebec, Britská Kolumbie
+- Průmyslová základna - Ontario, Quebec, Britská Kolumbie
 - Dovolují si i vyvážet v nezpracovaném stavu (vyspělý stát)
 - Propojené firmy na USA
 - Těžba nerostných surovin a dřeva, rybolov
@@ -107,9 +107,9 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 #### USA
 
 - Dělí se na 50 států
-- Hl. město – Washington D.C.
+- Hl. město - Washington D.C.
 - Hospodářsky se může dělit na: západ, střed, jih, severovýchod
-- Nejstarší NP světa – Yellowstone (1872)
+- Nejstarší NP světa - Yellowstone (1872)
 
 ### Hospodářství
 
@@ -119,11 +119,32 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 #### Hlavní odvětví
 
-- Průmyslová základna – Ontario, Quebec, Britská Kolumbie (Kanada)
+- Průmyslová základna - Ontario, Quebec, Britská Kolumbie (Kanada)
 - Propojené firmy na USA
 - Hospodářsky se může dělit na: západ, střed, jih, severovýchod (USA)
 
 ## Postavení makroregionu v globálním měřítku
 
-- Megalopolis – pás měst od Bostonu po Washington D.C. – 50 mil. obyvatel
-- Nejstarší NP světa – Yellowstone (1872)
+| Demografický ukazatel      | Průměrná hodnota    | Hodnocení                      |
+|---------------------------:|---------------------|--------------------------------|
+| **Porodnost**              | 11 ‰                | <code class="cgreen">+</code>  |
+| **Úmrtnost**               | 9 ‰                 | <code class="cwhite">o</code>  |
+| **Přirozený přírůstek**    | 2 ‰                 | <code class="cgreen">+</code>  |
+| **Úhrnná plodnost**        | 1,8                 | <code class="cwhite">o</code>  |
+| **Kojenecká úmrtnost**     | 5 ‰                 | <code class="cwhite">o</code>  |
+| **Naděje dožití**          | 79 let              | <code class="cgreen">+</code>  |
+| **Věkové pyramidy**        | stacionární         | <code class="cgreen">+</code>  |
+| **Migrační saldo**         | +3 mil.             | <code class="cgreen">++</code> |
+
+| Socioekonomický ukazatel   | Průměrná hodnota    | Hodnocení                      |
+|---------------------------:|---------------------|--------------------------------|
+| **PPP (HDP na obyv.)**     | 70 000 $            | <code class="cgreen">++</code> |
+| **HDI**                    | 0,92                | <code class="cgreen">+</code>  |
+| **Gini index**             | 0,39                | <code class="cred">-</code>    |
+| **Míra urbanizace**        | 82 %                | <code class="cgreen">+</code>  |
+
+
+- Megalopolis - pás měst od Bostonu po Washington D.C. - 50 mil. obyvatel
+- Nejstarší NP světa - Yellowstone (1872)
+
+### Postavení jednotlivých zemí

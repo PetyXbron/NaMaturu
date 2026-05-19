@@ -6,7 +6,7 @@ state: 1
 
 # **Jižní a jihovýchodní Evropa**
 
-- Přírodní podmínky – geologický vývoj, základní geomorfologické celky, klimatické a hydrologické poměry.
+- Přírodní podmínky - geologický vývoj, základní geomorfologické celky, klimatické a hydrologické poměry.
 - Sociálně ekonomické podmínky.
 - Postavení makroregionu v globálním měřítku.
 
@@ -34,7 +34,7 @@ Na této stránce ještě stále pracujeme.
 - V zimním období mírné deště (vyšší odtok), v létě sucho
 - Řeky: Pád, Ebro, Rhôna
 
-#### Půdy
+### Půdy
 
 - Žlutozemě a červenozemě - úrodné půdy, vhodné pro pěstování révy vinné, olivovníků, citrusů
 (zabarveno železem a hliníkem)
@@ -44,7 +44,6 @@ Na této stránce ještě stále pracujeme.
 - Nerovnoměrné rozložení obyvatelstva, nejhustěji je Itálie
 - Velká imigrace ze severní Afriky, a emigrace za prací z Balkánu
 - Bývalá Jugoslávie: Slovinsko, Chorvatsko, Bosna a Hercegovina, Černá Hora, Srbsko, Severní Makedonie
-- 
 
 ### Politické a ekonomické poměry
 
@@ -87,3 +86,23 @@ Na této stránce ještě stále pracujeme.
 ## Postavení makroregionu v globálním měřítku
 
 - PIGS (Portugalsko, Itálie, Řecko, Španělsko) - vysoce zadlužené
+
+### Postavení jednotlivých zemí
+
+| Demografický ukazatel      | Průměrná hodnota  | Hodnocení                     |
+|---------------------------:|-------------------|-------------------------------|
+| **Porodnost**              | 9 ‰               | <code class="cwhite">o</code> |
+| **Úmrtnost**               | 12 ‰              | <code class="cred">-</code>   |
+| **Přirozený přírůstek**    | -3 ‰              | <code class="cred">--</code>  |
+| **Úhrnná plodnost**        | 1,4               | <code class="cred">--</code>  |
+| **Kojenecká úmrtnost**     | 4 ‰               | <code class="cwhite">o</code> |
+| **Naděje dožití**          | 78 let            | <code class="cwhite">o</code> |
+| **Věkové pyramidy**        | regresivní        | <code class="cred">-</code>   |
+| **Migrační saldo**         | +0,5 mil.         | <code class="cwhite">o</code> |
+
+| Socioekonomický ukazatel   | Průměrná hodnota  | Hodnocení                     |
+|---------------------------:|-------------------|-------------------------------|
+| **PPP (HDP na obyv.)**     | 35 000 $          | <code class="cwhite">o</code> |
+| **HDI**                    | 0,85              | <code class="cwhite">o</code> |
+| **Gini index**             | 0,33              | <code class="cred">-</code>   |
+| **Míra urbanizace**        | 70 %              | <code class="cred">-</code>   |

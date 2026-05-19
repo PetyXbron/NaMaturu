@@ -6,7 +6,7 @@ state: 1
 
 # **Subsaharská Afrika**
 
-- Přírodní podmínky – geologický vývoj, základní geomorfologické celky, klimatické a hydrologické poměry.
+- Přírodní podmínky - geologický vývoj, základní geomorfologické celky, klimatické a hydrologické poměry.
 - Sociálně ekonomické podmínky.
 - Postavení makroregionu v globálním měřítku.
 
@@ -35,7 +35,7 @@ Od jihu Sahary (Sahelu) na jih
 - oblast vlhkých tropů
 - Niger, Kongo, Zambezi
 
-#### Půdy
+### Půdy
 
 ::: warning STÁLE UPRAVUJEME
 Tato stránka je stále ve vývoji a může se brzy změnit.
@@ -62,9 +62,9 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 #### Suroviny
 
-- Těžba – diamanty, zlato, platina, měď, kobalt, uran, ropa, zemní plyn
+- Těžba - diamanty, zlato, platina, měď, kobalt, uran, ropa, zemní plyn
 - Vyváží se v nezpracovaném stavu, což je nevýhodné (kromě asi JAR)
-- Měděný pás – Zambie, DR Kongo, Namibie, Botswana, Jihoafrická republika
+- Měděný pás - Zambie, DR Kongo, Namibie, Botswana, Jihoafrická republika
 
 #### Hlavní odvětví
 
@@ -76,3 +76,23 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 ::: warning STÁLE UPRAVUJEME
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
+
+### Postavení jednotlivých zemí
+
+| Demografický ukazatel      | Průměrná hodnota    | Hodnocení                      |
+|---------------------------:|---------------------|--------------------------------|
+| **Porodnost**              | 33 ‰                | <code class="cgreen">++</code> |
+| **Úmrtnost**               | 9 ‰                 | <code class="cred">-</code>    |
+| **Přirozený přírůstek**    | 24 ‰                | <code class="cgreen">++</code> |
+| **Úhrnná plodnost**        | 4,5                 | <code class="cgreen">++</code> |
+| **Kojenecká úmrtnost**     | 45 ‰                | <code class="cred">--</code>   |
+| **Naděje dožití**          | 62 let              | <code class="cred">--</code>   |
+| **Věkové pyramidy**        | expanzivní          | <code class="cgreen">++</code> |
+| **Migrační saldo**         | -1 mil.             | <code class="cred">-</code>    |
+
+| Socioekonomický ukazatel   | Průměrná hodnota    | Hodnocení                      |
+|---------------------------:|---------------------|--------------------------------|
+| **PPP (HDP na obyv.)**     | 5 000 $             | <code class="cred">--</code>   |
+| **HDI**                    | 0,55                | <code class="cred">--</code>   |
+| **Gini index**             | 0,45                | <code class="cred">-</code>    |
+| **Míra urbanizace**        | 44 %                | <code class="cred">-</code>    |
