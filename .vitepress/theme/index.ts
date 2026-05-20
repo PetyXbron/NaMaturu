@@ -8,6 +8,7 @@ import { inject as injectAnalytics } from '@vercel/analytics';
 import { injectSpeedInsights } from '@vercel/speed-insights';
 
 import GlobalFooter from './components/GlobalFooter.vue';
+import Tooltip from './components/Tip.vue';
 
 export default {
 	extends: DefaultTheme,
@@ -21,5 +22,7 @@ export default {
 		injectAnalytics();
 		injectSpeedInsights();
 		console.log('[NM] Vercel balíčky byly spuštěny.');
+
+		app.component('Tip', Tooltip);
 	}
 } satisfies Theme;
