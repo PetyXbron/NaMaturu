@@ -47,28 +47,32 @@ Na této stránce ještě stále pracujeme.
 
 ### Politické a ekonomické poměry
 
-| Země | Státní zřízení | Měna | Hlavní město | NATO | EU |
-|---|---|---|---|:---:|:---:|
-| Portugalsko | parlamentní republika | euro | Lisabon | ✅ | ✅ |
-| Španělsko | parlamentní monarchie | euro | Madrid | ✅ | ✅ |
-| Andorra | parlamentní knížectví | euro | Andorra la Vella | ❌ | ❌ |
-| Monaco               | konstituční monarchie         | euro                | Monaco          | ❌ | ❌ |
-| Itálie               | parlamentní republika         | euro                | Řím             | ✅ | ✅ |
-| San Marino           | parlamentní republika         | euro                | San Marino      | ❌ | ❌ |
-| Vatikán              | teokratická volená knížectví  | euro                | Vatikán         | ❌ | ❌ |
-| Malta                | parlamentní republika         | euro                | Valletta        | ❌ | ✅ |
-| Řecko                | parlamentní republika         | euro                | Atény           | ✅ | ✅ |
-| Kypr                 | republika                     | euro                | Nikósie         | ❌ | ✅ |
-| Slovinsko            | parlamentní republika         | euro                | Lublaň          | ✅ | ✅ |
-| Chorvatsko           | parlamentní republika         | euro                | Záhřeb          | ✅ | ✅ |
-| Bosna a Hercegovina  | parlamentní republika         | konvertibilní marka | Sarajevo        | ❌ | ❌ |
-| Černá Hora           | parlamentní republika         | euro                | Podgorica       | ✅ | ❌ |
-| Srbsko               | parlamentní republika         | dinár               | Bělehrad        | ❌ | ❌ |
-| Severní Makedonie    | parlamentní republika         | denar               | Skopje          | ✅ | ❌ |
-| Albánie              | parlamentní republika         | lek                 | Tirana          | ✅ | ❌ |
-| Bulharsko            | parlamentní republika         | lev                 | Sofie           | ✅ | ✅ |
-| Rumunsko             | parlamentní republika         | leu                 | Bukurešť        | ✅ | ✅ |
-| Turecko              | prezidentská republika        | turecká lira        | Ankara          | ✅ | ❌ |
+| **Země**                                 | **Státní zřízení**                         | **Měna** | **Hl. město**    | **NATO** | **EU** |
+|------------------------------------------|--------------------------------------------|----------|------------------|:--------:|:------:|
+| :portugal: Portugalsko                   | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | EUR €    | Lisabon          |    ✅    |   ✅   |
+| :es: Španělsko                           | 👑 <Tip id="ze6">konst. mon.</Tip>         | EUR €    | Madrid           |    ✅    |   ✅   |
+| :andorra: Andorra                        | 🤝 <Tip id="ze10">parl. spolukníž.</Tip>    | EUR €    | Andorra la Vella |    ❌    |   ❌   |
+| :monaco: Monako                          | 👑 <Tip id="ze6">konst. mon.</Tip>         | EUR €    | Monaco           |    ❌    |   ❌   |
+| :it: Itálie                              | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | EUR €    | Řím              |    ✅    |   ✅   |
+| :san_marino: San Marino                  | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | EUR €    | San Marino       |    ❌    |   ❌   |
+| :vatican_city: Vatikán                   | ⛪ <Tip id="ze9">abs. teo. mon.</Tip>      | EUR €    | Vatikán          |    ❌    |   ❌   |
+| :malta: Malta                            | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | EUR €    | Valletta         |    ❌    |   ✅   |
+| :greece: Řecko                           | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | EUR €    | Atény            |    ✅    |   ✅   |
+| :cyprus: Kypr                            | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>          | EUR €    | Nikósie          |    ❌    |   ✅   |
+| :slovenia: Slovinsko                     | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | EUR €    | Lublaň           |    ✅    |   ✅   |
+| :croatia: Chorvatsko                     | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | EUR €    | Záhřeb           |    ✅    |   ✅   |
+| :bosnia_herzegovina: Bosna a Hercegovina | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | BAM      | Sarajevo         |    ❌    |   ❌   |
+| :montenegro: Černá Hora                  | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | EUR €    | Podgorica        |    ✅    |   ❌   |
+| :serbia: Srbsko                          | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | RSD      | Bělehrad         |    ❌    |   ❌   |
+| :macedonia: Severní Makedonie            | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | MKD      | Skopje           |    ✅    |   ❌   |
+| :albania: Albánie                        | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | ALL      | Tirana           |    ✅    |   ❌   |
+| :bulgaria: Bulharsko                     | 🏛️ <Tip id="ze1">parl. rep.</Tip>          | EUR €    | Sofie            |    ✅    |   ✅   |
+| :romania: Rumunsko                       | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip>      | RON      | Bukurešť         |    ✅    |   ✅   |
+| :tr: Turecko                             | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>          | TRY ₺    | Ankara           |    ✅    |   ❌   |
+
+::: tip Zajímavost
+Bulharsko od ledna 2026 přechází na euro €, a stává se tak 21. členem eurozóny.
+:::
 
 ### Hospodářství
 

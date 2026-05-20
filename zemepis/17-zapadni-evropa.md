@@ -1,7 +1,7 @@
 ---
 title: Západní Evropa
 description: Otázka 17 - Regionální geografie světa - západní Evropa
-state: 1
+state: 2
 ---
 
 # **Západní Evropa**
@@ -9,12 +9,6 @@ state: 1
 - Přírodní podmínky - geologický vývoj, základní geomorfologické celky, klimatické a hydrologické poměry.
 - Sociálně ekonomické podmínky.
 - Postavení makroregionu v globálním měřítku.
-
----
-
-::: danger NEDOKONČENO
-Na této stránce ještě stále pracujeme.
-:::
 
 ## Přírodní podmínky
 
@@ -47,32 +41,35 @@ Na této stránce ještě stále pracujeme.
 
 ### Politické a ekonomické poměry
 
-| **Země**         | **Státní zřízení**          | **Měna**            | **Hl. město**      | **NATO** | **EU** |
-|------------------|-----------------------------|---------------------|--------------------|:--------:|:------:|
-| Irsko            | parlamentní republika       | euro                | Dublin             | ✅       | ✅      |
-| Velká Británie   | konstituční monarchie       | libra šterlinků     | Londýn             | ✅       | ❌      |
-| Francie          | poloprezidentská republika  | euro                | Paříž              | ✅       | ✅      |
-| Belgie           | konstituční monarchie       | euro                | Brusel             | ✅       | ✅      |
-| Nizozemsko       | konstituční monarchie       | euro                | Amsterdam          | ✅       | ✅      |
-| Lucembursko      | konstituční monarchie       | euro                | Lucemburk          | ✅       | ✅      |
-| Monako           | konstituční monarchie       | euro                | Monako             | ❌       | ❌      |
-| Andorra          | parlamentní spoluknížectví  | euro                | Andorra la Vella   | ❌       | ❌      |
-| Lichtenštejnsko  | konstituční monarchie       | švýcarský frank     | Vaduz              | ❌       | ❌      |
-| Švýcarsko        | federativní republika       | švýcarský frank     | Bern               | ❌       | ❌      |
+| **Země**                        | **Státní zřízení**                       | **Měna** | **Hl. město**    | **NATO** | **EU** |
+|---------------------------------|------------------------------------------|----------|------------------|:--------:|:------:|
+| :ireland: Irsko                 | 🏛️ <Tip id="ze1">parl. rep.</Tip>        | EUR €    | Dublin           |    ❌    |   ✅   |
+| :gb: Velká Británie             | 👑 <Tip id="ze6">konst. mon.</Tip>       | GBP £    | Londýn           |    ✅    |   ❌   |
+| :fr: Francie                    | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip>    | EUR €    | Paříž            |    ✅    |   ✅   |
+| :belgium: Belgie                | 👑 <Tip id="ze6">konst. mon.</Tip>       | EUR €    | Brusel           |    ✅    |   ✅   |
+| :netherlands: Nizozemsko        | 👑 <Tip id="ze6">konst. mon.</Tip>       | EUR €    | Amsterdam        |    ✅    |   ✅   |
+| :luxembourg: Lucembursko        | 👑 <Tip id="ze6">konst. mon.</Tip>       | EUR €    | Lucemburk        |    ✅    |   ✅   |
+| :monaco: Monako                 | 👑 <Tip id="ze6">konst. mon.</Tip>       | EUR €    | Monako           |    ❌    |   ❌   |
+| :andorra: Andorra               | 🤝 <Tip id="ze10">parl. spolukníž.</Tip> | EUR €    | Andorra la Vella |    ❌    |   ❌   |
+| :liechtenstein: Lichtenštejnsko | 👑 <Tip id="ze6">konst. mon.</Tip>       | CHF      | Vaduz            |    ❌    |   ❌   |
+| :switzerland: Švýcarsko         | ⚖️ <Tip id="ze4">fed. parl. rep.</Tip>   | CHF      | Bern             |    ❌    |   ❌   |
 
 ### Hospodářství
 
 #### Suroviny
 
-::: warning STÁLE UPRAVUJEME
-Tato stránka je stále ve vývoji a může se brzy změnit.
-:::
+- **Ropa, zemní plyn:** Severní moře (Velká Británie, Nizozemsko)
+- **Uran:** Francie
+- **Černé uhlí:** Velká Británie, Francie, Belgie
+- **Víno** Francie
 
 #### Hlavní odvětví
 
-::: warning STÁLE UPRAVUJEME
-Tato stránka je stále ve vývoji a může se brzy změnit.
-:::
+- **Primér:** zemědělství, chov dobytka  
+(obilí, brambory, cukrová řepa, skot, prasata, ovce, drůbež)
+- **Sekundér:** strojírenství, chemický průmysl, automobilový průmysl, letecký průmysl  
+(Airbus)
+- **Tercier:** bankovnictví, cestovní ruch, služby, vzdělávání, výzkum a vývoj, doprava
 
 ## Postavení makroregionu v globálním měřítku
 

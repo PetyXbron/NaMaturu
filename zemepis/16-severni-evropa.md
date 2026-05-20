@@ -55,16 +55,16 @@ Je to nízký obsah živin, kyselost, omezené možnosti zemědělství.
 
 ### Politické a ekonomické poměry
 
-| **Země**     | **Státní zřízení**        | **Měna**            | **Hlavní město** | **NATO** | **EU** |
-|--------------|---------------------------|---------------------|------------------|:--------:|:------:|
-| Island       | parlamentní republika     | islandská koruna    | Reykjavík        | ✅       | ❌     |
-| Norsko       | konstituční monarchie     | norská koruna       | Oslo             | ✅       | ❌     |
-| Švédsko      | konstituční monarchie     | švédská koruna      | Stockholm        | ✅       | ✅     |
-| Finsko       | parlamentní republika     | euro                | Helsinki         | ✅       | ✅     |
-| Dánsko       | konstituční monarchie     | dánská koruna       | Kodaň            | ✅       | ✅     |
-| Estonsko     | parlamentní republika     | euro                | Tallinn          | ✅       | ✅     |
-| Lotyšsko     | parlamentní republika     | euro                | Riga             | ✅       | ✅     |
-| Litva        | parlamentní republika     | euro                | Vilnius          | ✅       | ✅     |
+| **Země**           | **Státní zřízení**                    | **Měna** | **Hlavní město** | **NATO** | **EU** |
+|--------------------|---------------------------------------|----------|------------------|:--------:|:------:|
+| :iceland: Island   | 🏛️ <Tip id="ze1">parl. rep.</Tip>     | ISK      | Reykjavík        |    ✅    |   ❌   |
+| :norway: Norsko    | 👑 <Tip id="ze2">konst. mon.</Tip>    | NOK      | Oslo             |    ✅    |   ❌   |
+| :sweden: Švédsko   | 👑 <Tip id="ze2">konst. mon.</Tip>    | SEK      | Stockholm        |    ✅    |   ✅   |
+| :finland: Finsko   | 🏛️ <Tip id="ze1">parl. rep.</Tip>     | EUR €    | Helsinki         |    ✅    |   ✅   |
+| :denmark: Dánsko   | 👑 <Tip id="ze2">konst. mon.</Tip>    | DKK      | Kodaň            |    ✅    |   ✅   |
+| :estonia: Estonsko | 🏛️ <Tip id="ze1">parl. rep.</Tip>     | EUR €    | Tallinn          |    ✅    |   ✅   |
+| :latvia: Lotyšsko  | 🏛️ <Tip id="ze1">parl. rep.</Tip>     | EUR €    | Riga             |    ✅    |   ✅   |
+| :lithuania: Litva  | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip> | EUR €    | Vilnius          |    ✅    |   ✅   |
 
 Mezi závislá území patří:
 

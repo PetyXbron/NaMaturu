@@ -34,9 +34,23 @@ Na této stránce ještě stále pracujeme.
 
 ### Politické a ekonomické poměry
 
-| **Země** | **Státní zřízení** | **Měna** | **Hlavní město** | **NATO** | **EU** |
-|----------|--------------------|----------|------------------|:--------:|:------:|
-|          |                    |          |                  |          |        |
+| **Země**                    | **Státní zřízení**                       | **Měna** | **Hlavní město**    | **ASEAN** | **APEC** |
+|-----------------------------|------------------------------------------|----------|---------------------|:---------:|:--------:|
+| :cn: Čína                   | 🛠️ <Tip id="ze11">soc. rep.</Tip>        | CNY ¥    | Peking              |    ❌    |    ✅    |
+| :jp: Japonsko               | 👑 <Tip id="ze6">konst. mon.</Tip>       | JPY ¥    | Tokio               |    ❌    |    ✅    |
+| :kr: Jižní Korea            | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>        | KRW ₩    | Soul                |    ❌    |    ✅    |
+| :north_korea: Severní Korea | 🛠️ <Tip id="ze11">soc. rep.</Tip>        | KPW ₩    | Pchjongjang         |    ❌    |    ❌    |
+| :taiwan: Tchaj-wan          | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>        | TWD      | Tchaj-pej           |    ❌    |    ✅    |
+| :vietnam: Vietnam           | 🛠️ <Tip id="ze11">soc. rep.</Tip>        | VND ₫    | Hanoj               |    ✅    |    ✅    |
+| :thailand: Thajsko          | 👑 <Tip id="ze6">konst. mon.</Tip>       | THB ฿    | Bangkok             |    ✅    |    ✅    |
+| :malaysia: Malajsie         | 👑 <Tip id="ze7">fed. konst. mon.</Tip> | MYR      | Kuala Lumpur        |    ✅    |    ✅    |
+| :singapore: Singapur        | 🏛️ <Tip id="ze1">parl. rep.</Tip>        | SGD $    | Singapur            |    ✅    |    ✅    |
+| :indonesia: Indonésie       | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>        | IDR      | Jakarta             |    ✅    |    ✅    |
+| :philippines: Filipíny      | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>        | PHP ₱    | Manila              |    ✅    |    ✅    |
+| :myanmar: Myanmar           | 🪖 <Tip id="ze14">voj. junta</Tip>       | MMK      | Neipyijto           |    ✅    |    ❌    |
+| :cambodia: Kambodža         | 👑 <Tip id="ze6">konst. mon.</Tip>       | KHR ៛    | Phnompenh           |    ✅    |    ❌    |
+| :laos: Laos                 | 🛠️ <Tip id="ze11">soc. rep.</Tip>        | LAK ₭    | Vientiane           |    ✅    |    ❌    |
+| :brunei: Brunej             | 👑 <Tip id="ze8">abs. mon.</Tip>         | BND $    | Bandar Seri Begawan |    ✅    |    ✅    |
 
 ### Hospodářství
 

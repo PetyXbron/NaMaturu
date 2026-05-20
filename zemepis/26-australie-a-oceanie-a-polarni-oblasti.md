@@ -34,9 +34,16 @@ Na této stránce ještě stále pracujeme.
 
 ### Politické a ekonomické poměry
 
-| **Země** | **Státní zřízení** | **Měna** | **Hlavní město** | **NATO** | **EU** |
-|----------|--------------------|----------|------------------|:--------:|:------:|
-|          |                    |          |                  |          |        |
+| **Země**                              | **Státní zřízení**                  | **Měna** | **Hlavní město** | **PIF**  | **SPC** |
+|---------------------------------------|-------------------------------------|----------|------------------|:--------:|:-------:|
+| :australia: Austrálie                 | 👑 <Tip id="ze6">konst. mon.</Tip>  | AUD $    | Canberra         |   ✅    |   ✅    |
+| :new_zealand: Nový Zéland             | 👑 <Tip id="ze6">konst. mon.</Tip>  | NZD $    | Wellington       |   ✅    |   ✅    |
+| :fiji: Fidži                          | 🏛️ <Tip id="ze1">parl. rep.</Tip>   | FJD $    | Suva             |   ✅    |   ✅    |
+| :papua_new_guinea: Papua-Nová Guinea  | 👑 <Tip id="ze6">konst. mon.</Tip>  | PGK      | Port Moresby     |   ✅    |   ✅    |
+| :samoa: Samoa                         | 🏛️ <Tip id="ze1">parl. rep.</Tip>   | WST      | Apia             |   ✅    |   ✅    |
+| :tonga: Tonga                         | 👑 <Tip id="ze6">konst. mon.</Tip>  | TOP      | Nuku'alofa       |   ✅    |   ✅    |
+| :solomon_islands: Šalamounovy ostrovy | 👑 <Tip id="ze6">konst. mon.</Tip>  | SBD $    | Honiara          |   ✅    |   ✅    |
+| :vanuatu: Vanuatu                     | 🏛️ <Tip id="ze1">parl. rep.</Tip>   | VUV      | Port Vila        |   ✅    |   ✅    |
 
 ### Hospodářství
 

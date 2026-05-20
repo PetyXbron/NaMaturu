@@ -84,10 +84,10 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 ### Politické a ekonomické poměry
 
-| **Země**  | **Státní zřízení**       | **Měna**          | **Hl. město**   | **NATO** |
-|----------|---------------------------|-------------------|-----------------|:--------:|
-| USA      | federativní republika     | americký dolar    | Washington D.C. | ✅       |
-| Kanada   | federativní monarchie     | kanadský dolar    | Ottawa          | ✅       |
+| **Země**        | **Státní zřízení**                             | **Měna** | **Hl. město**   | **NATO** | **USMCA** |
+|-----------------|------------------------------------------------|----------|-----------------|:--------:|:---------:|
+| :us: USA        | ⚖️ <Tip id="ze5">fed. prez. rep.</Tip>        | USD $    | Washington D.C. |    ✅   |    ✅     |
+| :canada: Kanada | 👑 <Tip id="ze7">fed. parl. konst. mon.</Tip> | CAD $    | Ottawa          |    ✅   |    ✅     |
 
 ### Státy
 

@@ -45,18 +45,18 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 ### Politické a ekonomické poměry
 
-| **Země**                | **Státní zřízení**       | **Měna**              | **Hl. město** | **SADC** | **AU** |
-|-------------------------|----------------------------|-----------------------|------------------|----------|--------|
-| Jihoafrická republika   | parlamentní republika      | jihoafrický rand      | Pretoria         | ✅        | ✅      |
-| Nigérie                 | prezidentská republika     | naira                 | Abuja            | ❌         | ✅      |
-| Etiopie                 | federativní republika      | etiopský birr         | Addis Abeba      | ❌         | ✅      |
-| Keňa                    | prezidentská republika     | keňský šilink         | Nairobi          |   ❌       | ✅      |
-| Ghana                   | prezidentská republika     | ghanský cedi          | Accra            |    ❌      | ✅      |
-| Demokratická rep. Kongo | prezidentská republika     | konžský frank         | Kinshasa         | ✅        | ✅      |
-| Botswana                | parlamentní republika      | pula                  | Gaborone         | ✅        | ✅      |
-| Namibie                 | prezidentská republika     | namibijský dolar      | Windhoek         | ✅        | ✅      |
-| Senegal                 | prezidentská republika     | západoafrický frank   | Dakar            |    ❌      | ✅      |
-| Angola                  | prezidentská republika     | kwanza                | Luanda           | ✅        | ✅      |
+| **Země**                                 | **Státní zřízení**                       | **Měna** | **Hl. město** |  **AU**  | **SADC** |
+|------------------------------------------|------------------------------------------|----------|---------------|:--------:|:--------:|
+| :south_africa: Jihoafrická republika     | 🏛️ <Tip id="ze1">parl. rep.</Tip>       | ZAR      | Pretoria      |    ✅    |    ✅    |
+| :nigeria: Nigérie                        | ⚖️ <Tip id="ze5">fed. prez. rep.</Tip> | NGN ₦    | Abuja         |    ✅    |    ❌    |
+| :ethiopia: Etiopie                       | ⚖️ <Tip id="ze4">fed. parl. rep.</Tip> | ETB      | Addis Abeba   |    ✅    |    ❌    |
+| :kenya: Keňa                             | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | KES      | Nairobi       |    ✅    |    ❌    |
+| :ghana: Ghana                            | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | GHS ₵    | Accra         |    ✅    |    ❌    |
+| :congo_kinshasa: Demokratická rep. Kongo | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip>   | CDF      | Kinshasa      |    ✅    |    ✅    |
+| :botswana: Botswana                      | 🏛️ <Tip id="ze1">parl. rep.</Tip>       | BWP      | Gaborone      |    ✅    |    ✅    |
+| :namibia: Namibie                        | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip>   | NAD $    | Windhoek      |    ✅    |    ✅    |
+| :senegal: Senegal                        | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip>   | XOF      | Dakar         |    ✅    |    ❌    |
+| :angola: Angola                          | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | AOA      | Luanda        |    ✅    |    ✅    |
 
 ### Hospodářství
 

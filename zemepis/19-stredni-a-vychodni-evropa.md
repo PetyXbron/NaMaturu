@@ -40,18 +40,18 @@ Na této stránce ještě stále pracujeme.
 
 ### Politické a ekonomické poměry
 
-| Země | Státní zřízení | Měna | Hlavní město | NATO | EU |
-|---|---|---|---|:---:|:---:|
-| Německo | federální parlamentní republika | euro | Berlín | ✅ | ✅ |
-| Česko | parlamentní republika | česká koruna | Praha | ✅ | ✅ |
-| Polsko | parlamentní republika | zlotý | Varšava | ✅ | ✅ |
-| Rakousko | parlamentní republika | euro | Vídeň | ❌ | ✅ |
-| Slovensko | parlamentní republika | euro | Bratislava | ✅ | ✅ |
-| Ukrajina | unitární prezidentsko-parlamentní republika | hřivna | Kyjev | ❌ | ❌ |
-| Bělorusko | prezidentská republika | běloruský rubl | Minsk | ❌ | ❌ |
-| Maďarsko | parlamentní republika | forint | Budapešť | ✅ | ✅ |
-| Lichtenštejnsko | konstituční monarchie | švýcarský frank | Vaduz | ❌ | ❌ |
-| Švýcarsko | federativní republika | švýcarský frank | Bern | ❌ | ❌ |
+| Země                            | Státní zřízení                          | Měna  | Hlavní město | NATO | EU  |
+|---------------------------------|-----------------------------------------|-------|--------------|:----:|:---:|
+| :de: Německo                    | ⚖️ <Tip id="ze4">fed. parl. rep.</Tip> | EUR € | Berlín       |  ✅  | ✅  |
+| :czech_republic: Česko          | 🏛️ <Tip id="ze1">parl. rep.</Tip>       | CZK   | Praha        |  ✅  | ✅  |
+| :poland: Polsko                 | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip>   | PLN   | Varšava      |  ✅  | ✅  |
+| :austria: Rakousko              | ⚖️ <Tip id="ze4">fed. parl. rep.</Tip>  | EUR € | Vídeň        |  ❌  | ✅  |
+| :slovakia: Slovensko            | 🏛️ <Tip id="ze1">parl. rep.</Tip>       | EUR € | Bratislava   |  ✅  | ✅  |
+| :ukraine: Ukrajina              | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip>   | UAH ₴ | Kyjev        |  ❌  | ❌  |
+| :belarus: Bělorusko             | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | BYN   | Minsk        |  ❌  | ❌  |
+| :hungary: Maďarsko              | 🏛️ <Tip id="ze1">parl. rep.</Tip>       | HUF   | Budapešť     |  ✅  | ✅  |
+| :liechtenstein: Lichtenštejnsko | 👑 <Tip id="ze6">konst. mon.</Tip>      | CHF   | Vaduz        |  ❌  | ❌  |
+| :switzerland: Švýcarsko         | ⚖️ <Tip id="ze4">fed. rep.</Tip>        | CHF   | Bern         |  ❌  | ❌  |
 
 ### Hospodářství
 

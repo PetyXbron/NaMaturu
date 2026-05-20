@@ -46,21 +46,21 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 ### Politické a ekonomické poměry
 
-| **Země**       | **Státní zřízení**       | **Měna**            | **Hl. město** | **OPEC** | **Liga arabských států** |
-|----------------|--------------------------|---------------------|---------------|:--------:|:------------------------:|
-| Egypt          | prezidentská republika   | egyptská libra      | Káhira        |    ❌    |           ✅             |
-| Alžírsko       | prezidentská republika   | alžírský dinár      | Alžír         |    ✅    |           ✅             |
-| Maroko         | konstituční monarchie    | marocký dirham      | Rabat         |    ❌    |           ✅             |
-| Tunisko        | prezidentská republika   | tuniský dinár       | Tunis         |    ❌    |           ✅             |
-| Libye          | prezidentská republika   | libyjský dinár      | Tripolis      |    ✅    |           ✅             |
-| Izrael         | parlamentní republika    | nový šekel          | Jeruzalém     |    ❌    |           ❌             |
-| Turecko        | prezidentská republika   | turecká lira        | Ankara        |    ❌    |           ❌             |
-| Saúdská Arábie | absolutní monarchie      | saúdský rijál       | Rijád         |    ✅    |           ✅             |
-| Katar          | absolutní monarchie      | katarský rijál      | Dauhá         |    ✅    |           ✅             |
-| Írán           | islámská republika       | íránský rijál       | Teherán       |    ✅    |           ❌             |
-| Irák           | parlamentní republika    | irácký dinár        | Bagdád        |    ✅    |           ✅             |
-| Sýrie          | prezidentská republika   | syrská libra        | Damašek       |    ❌    |           ✅             |
-| Jemen          | prezidentská republika   | jemenský rijál      | San'á         |    ❌    |           ✅             |
+| **Země**                      | **Státní zřízení**                    | **Měna** | **Hl. město** | **Liga arabských států**  | **OPEC** |
+|-------------------------------|---------------------------------------|----------|---------------|:-------------------------:|:--------:|
+| :egypt: Egypt                 | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip> | EGP £    | Káhira        |            ✅            |    ❌    |
+| :algeria: Alžírsko            | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip> | DZD      | Alžír         |            ✅            |    ✅    |
+| :morocco: Maroko              | 👑 <Tip id="ze6">konst. mon.</Tip>    | MAD      | Rabat         |            ✅            |    ❌    |
+| :tunisia: Tunisko             | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>     | TND      | Tunis         |            ✅            |    ❌    |
+| :libya: Libye                 | 🏛️ <Tip id="ze1">parl. rep.</Tip>     | LYD      | Tripolis      |            ✅            |    ✅    |
+| :israel: Izrael               | 🏛️ <Tip id="ze1">parl. rep.</Tip>     | ILS ₪    | Jeruzalém     |            ❌            |    ❌    |
+| :tr: Turecko                  | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>     | TRY      | Ankara        |            ❌            |    ❌    |
+| :saudi_arabia: Saúdská Arábie | 👑 <Tip id="ze8">abs. mon.</Tip>      | SAR      | Rijád         |            ✅            |    ✅    |
+| :qatar: Katar                 | 👑 <Tip id="ze8">abs. mon.</Tip>      | QAR      | Dauhá         |            ✅            |    ❌    |
+| :iran: Írán                   | 🌙 <Tip id="ze12">isl. rep.</Tip>     | IRR      | Teherán       |            ❌            |    ✅    |
+| :iraq: Irák                   | 🏛️ <Tip id="ze1">parl. rep.</Tip>     | IQD      | Bagdád        |            ✅            |    ✅    |
+| :syria: Sýrie                 | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip> | SYP £    | Damašek       |            ✅            |    ❌    |
+| :yemen: Jemen                 | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>     | YER      | San'á         |            ✅            |    ❌    |
 
 ### Hospodářství
 

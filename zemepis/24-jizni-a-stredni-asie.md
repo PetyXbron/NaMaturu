@@ -34,9 +34,17 @@ Na této stránce ještě stále pracujeme.
 
 ### Politické a ekonomické poměry
 
-| **Země** | **Státní zřízení** | **Měna** | **Hlavní město** | **NATO** | **EU** |
-|----------|--------------------|----------|------------------|:--------:|:------:|
-|          |                    |          |                  |          |        |
+| **Země**                    | **Státní zřízení**                      | **Měna** | **Hlavní město** |  **SCO**   | **SAARC** |
+|-----------------------------|-----------------------------------------|----------|------------------|:----------:|:---------:|
+| :india: Indie               | ⚖️ <Tip id="ze4">fed. parl. rep.</Tip> | INR ₹    | Nové Dillí       |    ✅     |    ✅     |
+| :pakistan: Pákistán         | ⚖️ <Tip id="ze4">fed. parl. rep.</Tip> | PKR      | Islámábád        |    ✅     |    ✅     |
+| :bangladesh: Bangladéš      | 🏛️ <Tip id="ze1">parl. rep.</Tip>       | BDT ৳    | Dháka            |    ❌     |    ✅     |
+| :afghanistan: Afghánistán   | 🕌 <Tip id="ze13">teokrat. emirát</Tip> | AFN ؋    | Kábul            |    ❌     |    ✅     |
+| :kazakhstan: Kazachstán     | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | KZT ₸    | Astana           |    ✅     |    ❌     |
+| :uzbekistan: Uzbekistán     | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | UZS      | Taškent          |    ✅     |    ❌     |
+| :turkmenistan: Turkmenistán | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | TMT      | Ašchabad         |    ❌     |    ❌     |
+| :kyrgyzstan: Kyrgyzstán     | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | KGS      | Biškek           |    ✅     |    ❌     |
+| :tajikistan: Tádžikistán    | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | TJS      | Dušanbe          |    ✅     |    ❌     |
 
 ### Hospodářství
 

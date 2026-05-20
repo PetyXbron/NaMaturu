@@ -44,16 +44,16 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 ### Politické a ekonomické poměry
 
-| Země      | Státní zřízení          | Měna             | Hl. město         | MERCOSUR |
-|-----------|-------------------------|------------------|-------------------|:--------:|
-| Brazílie  | federativní republika   | brazilský real   | Brasília          | ✅       |
-| Argentina | federativní republika   | argentinské peso | Buenos Aires      | ✅       |
-| Mexiko    | federativní republika   | mexické peso     | Ciudad de México  | ❌       |
-| Chile     | prezidentská republika  | chilské peso     | Santiago          | ✅       |
-| Kolumbie  | prezidentská republika  | kolumbijské peso | Bogotá            | ❌       |
-| Peru      | prezidentská republika  | nuevo sol        | Lima              | ❌       |
-| Venezuela | prezidentská republika  | bolívar          | Caracas           | ❌       |
-| Kuba      | socialistická republika | kubánské peso    | Havana            | ❌       |
+| Země                  | Státní zřízení                          | Měna  | Hlavní město     | MERCOSUR |
+|-----------------------|-----------------------------------------|-------|------------------|:--------:|
+| :brazil: Brazílie     | 🧑‍💼 <Tip id="ze5">fed. prez. rep.</Tip> | BRL   | Brasília         |    ✅    |
+| :argentina: Argentina | 🧑‍💼 <Tip id="ze5">fed. prez. rep.</Tip> | ARS $ | Buenos Aires     |    ✅    |
+| :mexico: Mexiko       | 🧑‍💼 <Tip id="ze5">fed. prez. rep.</Tip> | MXN $ | Ciudad de México |    ❌    |
+| :chile: Chile         | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | CLP $ | Santiago         |    ✅*   |
+| :colombia: Kolumbie   | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | COP $ | Bogotá           |    ❌    |
+| :peru: Peru           | 🧑‍💼 <Tip id="ze3">poloprez. rep.</Tip>   | PEN   | Lima             |    ❌    |
+| :venezuela: Venezuela | 🧑‍💼 <Tip id="ze2">prez. rep.</Tip>       | VES   | Caracas          |    ❌    |
+| :cuba: Kuba           | 🛠️ <Tip id="ze11">soc. rep.</Tip>       | CUP $ | Havana           |    ❌    |
 
 ### Hospodářství
 
