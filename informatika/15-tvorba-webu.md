@@ -94,7 +94,7 @@ Různé typy serverů, které mohou nabízet:
 | **VPS**                | Virtuální server s vlastními zdroji, dražší, ale lepší výkon.         | Střední        | Střední       |
 | **Dedikovaný server**  | Celý server pro jednoho zákazníka, nejdražší, ale nejlepší výkon.     | Nejvyšší       | Nejvyšší      |
 
-:::info TIP
+::: info TIP
 Podívej se na [webhosting ceník Vedosu](https://vedos.cz/webhosting/) nebo na [stránky Webnodu](https://www.webnode.com/cs/).
 :::
 
