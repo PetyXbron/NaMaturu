@@ -44,6 +44,7 @@ state: 2
 - Tématické - vodstvo, zemědělství, doprava, obyvatelstvo, průmysl, atd.
 
 ### Podle zkreslení
+
 - Úhlojevné - stejné úhly, ale dálky a plochy zkreslené
 - Délkojevné - stejné délky, ale úhly a plochy zkreslené
 - Plochojevné - stejné plochy
@@ -88,9 +89,9 @@ state: 2
 - **Doplňkový obsah** = legenda, popis, reklama, rejstřík
 
 #### Hypsometrie
-- nížiny - do 200 m
-- vysočiny - nad 200 m
+- nížiny - do 200 m. n. m.
+- vysočiny - nad 200 m. n. m.
 
 #### Podle nadmořské výšky
-- roviny - do 30 m
-- pahorkatiy - do 150 m
+- roviny - do 30 m. n. m.
+- pahorkatiny - do 150 m. n. m.

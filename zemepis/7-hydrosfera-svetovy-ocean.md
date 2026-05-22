@@ -65,6 +65,12 @@ Přílivy a odlivy se střídají po 6 hodinách
 Skočný příliv | Gemini (2026) | AI model Google
 </div>
 
+::: tip Zajímavost
+Jedny z nejdrastičtějších skočných přílivů a odlivů v Evropě můžeme sledovat u kláštera Mont-Saint-Michel ve Francii.
+Při odlivu se k němu dá dojít suchou nohou po mořském dně, ale při nejvyšších přílivech se mění v dokonalý ostrov zcela obklopený vodou.
+Skočný příliv nastává každých 14 dní (při novu a úplňku), avšak k úplnému zatopení přístupové cesty dochází jen několikrát do roka.
+:::
+
 ## Členění světového oceánu
 
 ![Oceány světa](/media/zemepis/oceany.jpg "Oceány světa")

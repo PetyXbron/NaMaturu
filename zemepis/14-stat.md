@@ -64,6 +64,6 @@ Může to být kníže, car, velkovévoda, sultán, král nebo císař.
 
 # Ukazatele vyspělosti zemí světa
 
-::: info ODKAZ
+::: info Odkaz
 Různé ukazatele vyspělosti najdeš [v otázce 10](/zemepis/10-geografie-obyvatelstva-a-sidel#ukazatele-vyspelosti).
 :::
