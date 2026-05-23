@@ -15,6 +15,6 @@ head:
 - Leisure time and hobbies (what I do, how often, with whom)
 - Work-life balance and plans for personal development
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

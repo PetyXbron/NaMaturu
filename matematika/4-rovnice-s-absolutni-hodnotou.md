@@ -9,7 +9,7 @@ state: 1
 - definice absolutní hodnoty
 - postup řešení rovnice a nerovnice s absolutní hodnotou
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Tato stránka může obsahovat chyby.
 :::
 

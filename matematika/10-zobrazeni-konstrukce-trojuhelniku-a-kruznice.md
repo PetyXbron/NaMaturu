@@ -13,7 +13,7 @@ state: 2
 - otočení
 - podobná zobrazení – stejnolehlost
 
-::: warning STÁLE UPRAVUJEME
+::: warning 🏗️ Ještě upravujeme...
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 

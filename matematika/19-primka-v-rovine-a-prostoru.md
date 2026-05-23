@@ -11,7 +11,7 @@ state: 1
 - odchylka dvou přímek
 - vzdálenost bodu od přímky
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Tato stránka může obsahovat chyby.
 :::
 

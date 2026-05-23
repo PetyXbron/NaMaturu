@@ -15,6 +15,6 @@ head:
 - Healthy vs unhealthy eating habits
 - My diet, favourite dishes, and any food restrictions/preferences
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

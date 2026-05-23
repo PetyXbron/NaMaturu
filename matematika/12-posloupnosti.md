@@ -10,7 +10,7 @@ head:
 
 # **Posloupnosti, aritmetická posloupnost**
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::
 

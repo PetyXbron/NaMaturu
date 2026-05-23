@@ -15,6 +15,6 @@ head:
 - Natural disasters (floods, droughts, storms, wildfires, earthquakes)
 - Prevention and personal safety during extreme events
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

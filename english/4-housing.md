@@ -15,6 +15,6 @@ head:
 - Advantages and disadvantages of different places to live
 - My home now + my ideal future home
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

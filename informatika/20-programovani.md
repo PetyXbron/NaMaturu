@@ -14,7 +14,7 @@ head:
 - Základní principy v programování (datové typy jednoduchých proměnných, strukturované typy, podmínky, cykly)
 - Princip maker v MS Office (nahrávání, uložení, spuštění makra)
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::
 

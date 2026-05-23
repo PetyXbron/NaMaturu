@@ -15,6 +15,6 @@ head:
 - Tabulky a grafické objekty v textu, použití oddílů, hypertextové odkazy
 - Typografická a estetická pravidla
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::

@@ -15,6 +15,6 @@ head:
 - Protection strategies (recycling, renewable energy, conservation)
 - What I can do personally and what governments should do
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

@@ -15,7 +15,7 @@ state: 1
 - úhel dvou rovin, roviny a přímky, dvou přímek v prostoru
 - příčka mimoběžek
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Tato stránka může obsahovat chyby.
 :::
 

@@ -14,6 +14,6 @@ Místní region – vymezení, fyzickogeografická, sociální a ekonomická cha
 
 ---
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::

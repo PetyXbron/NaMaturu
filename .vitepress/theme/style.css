@@ -101,6 +101,14 @@
 		background-color: var(--vp-c-custom-block-tip-bg);
 	}
 
+	.warning {
+		background-color: var(--vp-custom-block-warning-bg);
+	}
+
+	.danger {
+		background-color: var(--vp-custom-block-danger-bg);
+	}
+
 	/* Ostatní */
 
 	.DocSearch {
@@ -117,6 +125,10 @@ html.dark {
 }
 
 @media (max-width: 640px) {
+	:root {
+		--vp-home-hero-image-filter: blur(56px);
+	}
+
 	.image-src {
 		transform: translate(-50%, 35%) scale(0.8) !important;
 	}

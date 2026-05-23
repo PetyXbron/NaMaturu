@@ -10,7 +10,7 @@ head:
 
 # **Geometrická posloupnost, nekonečná geometrická řada**
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::
 

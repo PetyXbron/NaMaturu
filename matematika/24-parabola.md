@@ -10,7 +10,7 @@ state: 1
 - rovnice tečny k parabole z daného bodu
 - vzájemná poloha přímky a paraboly
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Tato stránka může obsahovat chyby.
 :::
 

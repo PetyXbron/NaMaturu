@@ -15,6 +15,6 @@ head:
 - Current social challenges (stress, loneliness, misinformation)
 - Personal view: how to live healthily and responsibly today
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

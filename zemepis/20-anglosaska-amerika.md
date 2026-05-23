@@ -12,7 +12,7 @@ state: 1
 
 ---
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::
 
@@ -54,7 +54,7 @@ Na této stránce ještě stále pracujeme.
 
 ### Půdy
 
-::: warning STÁLE UPRAVUJEME
+::: warning 🏗️ Ještě upravujeme...
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 
@@ -70,7 +70,7 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 #### Kolonizace
 
-::: warning STÁLE UPRAVUJEME
+::: warning 🏗️ Ještě upravujeme...
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 

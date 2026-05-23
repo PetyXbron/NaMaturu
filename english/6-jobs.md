@@ -15,6 +15,6 @@ head:
 - My future plans (studies, first job, long-term goals)
 - CV/interview basics + personal preparation
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

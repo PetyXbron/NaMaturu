@@ -11,7 +11,7 @@ state: 2
 - goniometrické funkce v pravoúhlém trojúhelníku
 - sinová a kosinová věta
 
-::: warning STÁLE UPRAVUJEME
+::: warning 🏗️ Ještě upravujeme...
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 

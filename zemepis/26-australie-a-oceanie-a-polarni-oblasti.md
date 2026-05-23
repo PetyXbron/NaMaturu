@@ -16,7 +16,7 @@ head:
 
 ---
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::
 

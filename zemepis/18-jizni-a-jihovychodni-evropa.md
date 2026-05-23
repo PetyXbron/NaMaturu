@@ -12,7 +12,7 @@ state: 1
 
 ---
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::
 

@@ -12,7 +12,7 @@ state: 2
 - kombinační čísla
 - binomická věta
 
-::: warning STÁLE UPRAVUJEME
+::: warning 🏗️ Ještě upravujeme...
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 

@@ -15,6 +15,6 @@ head:
 - Selected holidays in English-speaking countries
 - My favourite celebration + personal traditions
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

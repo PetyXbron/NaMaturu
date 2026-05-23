@@ -13,6 +13,6 @@ head:
 - Hromadná korespondence, víceúrovňový seznam
 - Generování obsahu dokumentu, poznámky pod čarou
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::

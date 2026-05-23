@@ -14,7 +14,7 @@ head:
 - Spustitelné a datové soubory, komprimace a dekomprimace
 - Instalace součástí systému, asociace datových souborů s aplikacemi
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::
 

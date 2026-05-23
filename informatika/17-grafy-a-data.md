@@ -13,6 +13,6 @@ head:
 - Typy grafů, tvorba grafu, úprava vzhledu grafu, třídění záznamů
 - Filtrování dat, funkce subtotal, makra
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::

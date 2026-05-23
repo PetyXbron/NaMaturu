@@ -11,7 +11,7 @@ state: 1
 - vzájemná poloha přímky a roviny
 - průsečnice dvou různoběžných rovin
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Tato stránka může obsahovat chyby.
 :::
 

@@ -12,7 +12,7 @@ state: 2
 - negace jednoduchých a složených výroků
 - typy důkazů – přímý, nepřímý, sporem, matematickou indukcí
 
-::: warning STÁLE UPRAVUJEME
+::: warning 🏗️ Ještě upravujeme...
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 

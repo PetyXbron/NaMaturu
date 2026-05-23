@@ -11,7 +11,7 @@ state: 1
 - velikost vektorů, odchylka dvou vektorů
 - skalární a vektorový součin dvou vektorů
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Tato stránka může obsahovat chyby.
 :::
 

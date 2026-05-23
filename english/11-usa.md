@@ -15,6 +15,6 @@ head:
 - Culture and global influence (music, film, technology, sport)
 - Places I would visit in the USA and why
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

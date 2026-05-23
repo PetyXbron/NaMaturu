@@ -15,6 +15,6 @@ head:
 - Language diversity and communication barriers
 - International etiquette (greetings, punctuality, personal space, respect)
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

@@ -15,6 +15,6 @@ head:
 - Real-world impact (peace, security, health, economy, education)
 - My opinion on international cooperation today
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

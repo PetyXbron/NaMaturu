@@ -12,7 +12,7 @@ state: 1
 - úprava výrazů s goniometrickými funkcemi
 - řešení goniometrických rovnic
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Tato stránka může obsahovat chyby.
 :::
 

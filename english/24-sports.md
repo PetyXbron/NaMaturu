@@ -15,6 +15,6 @@ head:
 - Sport in my country (popular sports, events, famous athletes)
 - My sport experience: what I do/watch and why
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

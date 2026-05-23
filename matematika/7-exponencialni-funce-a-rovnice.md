@@ -10,7 +10,7 @@ state: 1
 - definice exponenciální funkce, definiční obor, obor hodnot, graf
 - řešení exponenciálních rovnic
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Tato stránka může obsahovat chyby.
 :::
 

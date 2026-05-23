@@ -15,6 +15,6 @@ head:
 - Advertising methods (TV, social media, influencers, targeted ads)
 - How ads influence me + tips for smart shopping
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

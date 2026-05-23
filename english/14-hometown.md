@@ -15,6 +15,6 @@ head:
 - What I dislike (traffic, prices, limited opportunities, other issues)
 - What I would improve + whether I want to stay there in the future
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

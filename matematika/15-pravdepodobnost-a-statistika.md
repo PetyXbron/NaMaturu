@@ -16,7 +16,7 @@ head:
 - podmíněná pravděpodobnost
 - statistický soubor, průměr, modus, medián, směrodatná odchylka
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::
 

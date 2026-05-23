@@ -15,6 +15,6 @@ head:
 - Shopping habits (where I buy clothes, online vs offline, budget)
 - Personal style + opinion (what I wear for school/work/events and why)
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

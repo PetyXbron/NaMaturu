@@ -15,6 +15,6 @@ head:
 - Major works: Má vlast (The Moldau), The Bartered Bride, and their significance
 - Personal opinion: why Smetana still matters in Czech and world culture
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

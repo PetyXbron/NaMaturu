@@ -18,6 +18,6 @@ head:
 - **My opinion (45–60 s):** what I like about Czechia, strengths/weaknesses, why it is a good place to live or visit.
 - **Closing (15–30 s):** short summary and final personal statement.
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

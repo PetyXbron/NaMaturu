@@ -15,6 +15,6 @@ head:
 - Nature and tourism highlights in each country
 - One country I would like to visit/study in and why
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

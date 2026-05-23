@@ -26,7 +26,7 @@ Počet řešení kvadratické rovnice závisí **na hodnotě diskriminantu**:
 
 ## **Vztahy mezi kořeny a koeficienty kvadratické rovnice** {#3}
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Toto téma nám ještě chybí...
 :::
 
@@ -56,6 +56,6 @@ $p = \pm 3$
 Dále pokračujeme s nerovnicí.
 :::
 
-::: warning NEDOKONČENO
+::: warning 🛠️ Nedokončeno
 Příklad bude ještě rozveden.
 :::

@@ -14,6 +14,6 @@ head:
 - Relace, typy relačních vazeb, význam databázových aplikací
 - Návrh struktury tabulky, tvorba databáze
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::

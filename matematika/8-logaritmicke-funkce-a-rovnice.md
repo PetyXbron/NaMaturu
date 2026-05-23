@@ -10,7 +10,7 @@ state: 1
 - logaritmus, pravidla pro počítání s logaritmy
 - řešení logaritmických rovnic
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Tato stránka může obsahovat chyby.
 :::
 

@@ -12,7 +12,7 @@ state: 1
 - slovní úlohy
 - grafické řešení nerovnic
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Tato stránka může obsahovat chyby.
 :::
 

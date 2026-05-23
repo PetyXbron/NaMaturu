@@ -15,6 +15,6 @@ head:
 - Summer vs winter holidays (typical activities and preferences)
 - My best holiday experience + ideal holiday plan
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

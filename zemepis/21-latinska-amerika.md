@@ -12,7 +12,7 @@ state: 1
 
 ---
 
-::: danger NEDOKONČENO
+::: danger 🛠️ Nedokončeno
 Na této stránce ještě stále pracujeme.
 :::
 
@@ -20,13 +20,13 @@ Na této stránce ještě stále pracujeme.
 
 ### Geologický vývoj
 
-::: warning STÁLE UPRAVUJEME
+::: warning 🏗️ Ještě upravujeme...
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 
 ### Geomorfologické celky
 
-::: warning STÁLE UPRAVUJEME
+::: warning 🏗️ Ještě upravujeme...
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 
@@ -36,7 +36,7 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 ### Půdy
 
-::: warning STÁLE UPRAVUJEME
+::: warning 🏗️ Ještě upravujeme...
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 
@@ -63,7 +63,7 @@ Tato stránka je stále ve vývoji a může se brzy změnit.
 
 #### Hlavní odvětví
 
-::: warning STÁLE UPRAVUJEME
+::: warning 🏗️ Ještě upravujeme...
 Tato stránka je stále ve vývoji a může se brzy změnit.
 :::
 

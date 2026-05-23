@@ -17,6 +17,6 @@ head:
 - Online vs offline entertainment (benefits and risks)
 - My hobbies and how they help my mental health and motivation
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

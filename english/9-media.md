@@ -15,6 +15,6 @@ head:
 - Benefits and risks (speed, influence, fake news, privacy)
 - My media habits + rules for responsible communication
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::

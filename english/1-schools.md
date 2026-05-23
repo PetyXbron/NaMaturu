@@ -15,6 +15,6 @@ head:
 - My school experience (favourite subjects, teachers, useful skills)
 - Comparison + personal opinion (ideal school, pros/cons, future study plans)
 
-::: danger NOT FINISHED
+::: danger 🛠️ Not finished
 This page is still under construction.
 :::
