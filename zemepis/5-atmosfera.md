@@ -1,10 +1,10 @@
 ---
 title: Atmosféra
-description: Otázka 5 - Planterátní diferenciace atmosféry
+description: Otázka 5 - Planetární diferenciace atmosféry
 state: 2
 ---
 
-# **Planterátní diferenciace atmosféry**
+# **Planetární diferenciace atmosféry**
 
 - Vertikální členění atmosféry. Vlastnosti troposféry.
 - Všeobecná cirkulace atmosféry. Pobřežní a horské větry.

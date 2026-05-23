@@ -1,10 +1,10 @@
 ---
 title: Biosféra
-description: Otázka 9 - Planterátní diferenciace biosféry
+description: Otázka 9 - Planetární diferenciace biosféry
 state: 2
 ---
 
-# **Planterátní diferenciace biosféry**
+# **Planetární diferenciace biosféry**
 
 - Charakteristika biosféry. Biogeografické faktory.
 - Charakteristika hlavních biomy Země.

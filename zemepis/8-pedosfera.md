@@ -1,10 +1,10 @@
 ---
 title: Pedosféra
-description: Otázka 8 - Planterátní diferenciace pedosféry
+description: Otázka 8 - Planetární diferenciace pedosféry
 state: 2
 ---
 
-# **Planterátní diferenciace pedosféry**
+# **Planetární diferenciace pedosféry**
 
 - Charakteristika pedosféry. Složení půdy. Půdotvorné procesy.
 - Půdy Země, jejich vlastnosti a rozšíření.

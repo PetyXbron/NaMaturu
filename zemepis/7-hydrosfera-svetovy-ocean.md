@@ -1,10 +1,10 @@
 ---
 title: Hydrosféra, světový oceán
-description: Otázka 7 - Planterátní diferenciace hydrosféry - světový oceán
+description: Otázka 7 - Planetární diferenciace hydrosféry - světový oceán
 state: 2
 ---
 
-# **Planterátní diferenciace hydrosféry - světový oceán**
+# **Planetární diferenciace hydrosféry - světový oceán**
 
 - Vlastnosti mořské vody, příčiny a důsledky pohybu mořské vody.
 - Členění světového oceánu, reliéf mořského dna.
