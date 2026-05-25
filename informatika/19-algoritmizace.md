@@ -28,7 +28,6 @@ Algoritmus je **přesný** a **konečný návod**, který popisuje **postup ře�
 - **Rozhodovací tabulka:** tabulka s podmínkami a akcemi
 - **Vývojový diagram:** grafické znázornění algoritmu pomocí symbolů a šipek
 - **Počítačový kód:** programovací jazyk (Python, Java, C++, ...)
-- **Pseudokód:** kombinace přirozeného a programovacího jazyka
 
 ## Vývojový diagram
 

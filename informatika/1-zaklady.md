@@ -22,38 +22,45 @@ Vyšší jednotkou je potom Byte, který se skládá z 8 bitů. Byte může repr
 
 ## Pravdivostní tabulka
 
-| A | B | A AND B | A OR B | A XOR B |
-|---|---|---------|--------|---------|
-| 1 | 1 | 1       | 1      | 0       |
-| 1 | 0 | 0       | 1      | 1       |
-| 0 | 1 | 0       | 1      | 1       |
-| 0 | 0 | 0       | 0      | 0       |
+| **A** | **B** | A AND B   | A OR B  | A XOR B  | A XNOR B |
+|:-----:|:-----:|:---------:|:-------:|:--------:|:--------:|
+| **1** | **1** |     1     |    1    |    0     |    1     |
+| **1** | **0** |     0     |    1    |    1     |    0     |
+| **0** | **1** |     0     |    1    |    1     |    0     |
+| **0** | **0** |     0     |    0    |    0     |    1     |
+
+- **AND (konjunkce):** pokud jsou oba vstupy 1
+- **OR (disjunkce):** alespoň jeden vstup je 1
+- **XOR (exkluzivní OR):** pokud je právě jeden vstup 1
+- **XNOR (ekvivalence):** pokud jsou oba vstupy stejné
 
 ## Číselné soustavy
 
 #### **Desítková soustava**
 
-| Základ | Cifry | Příklad 13 |
-|--------|-------|------------|
-| 10     | 0-9   | 13         |
+| Základ | Cifry | Příklad čísla 13 z dek. |
+|--------|-------|-------------------------|
+| 10     | 0-9   | 13                      |
 
 Nejběžnější číselná soustava, kterou používáme v každodenním životě.
 
 #### **Dvojková soustava**
 
-| Základ | Cifry | Příklad 13 |
-|--------|-------|------------|
-| 2      | 0-1   | 1101       |
+| Základ | Cifry | Příklad čísla 13 z dek. |
+|--------|-------|-------------------------|
+| 2      | 0-1   | 1101                    |
 
 Přirozená pro počítače, protože elektronické obvody mohou být snadno reprezentovány dvěma stavy (zapnuto/vypnuto).
 
 #### **Šestnáctková soustava**
 
-| Základ | Cifry    | Příklad 13 |
-|--------|----------|------------|
-| 16     | 0-9, A-F | D          |
+| Základ | Cifry    | Příklad čísla 13 z dek. |
+|--------|----------|-------------------------|
+| 16     | 0-9, A-F | D                       |
 
 Kompaktní způsob zápisu binárních dat, často používaný v programování a počítačové grafice.
+Lze jí taky nazývat hexadecimální.  
+Šestnáctková číslice se dá zapsat jako čtyři bity (**nibble**).
 
 ---
 
@@ -97,13 +104,15 @@ Seskupování bitů po čtyřech (od pravé strany) a převodem každé skupiny 
 > ```
 
 **Jakákoli -> Desítková**  
-Stačí vynásobit každou cifru základem umocněným na pozici a sečíst.
+Stačí vynásobit každou cifru základem umocněným na pozici a sečíst.  
+Je vhodné začít zprava, protože nejnižší pozice je 0 a zvyšuje se směrem doleva.  
+Pokud pracuji s hexadecimálními čísly, písmena A-F se převádí na hodnoty 10-15.
 
 > `F3D5`  
-$15 \cdot 16^3 + 3 \cdot 16^2 + 13 \cdot 16^1 + 5 \cdot 16^0 = 62261$
+$5 \cdot 16^0 + 13 \cdot 16^1 + 3 \cdot 16^2 + 15 \cdot 16^3 = 62261$
 
 > `101101`  
-$1 \cdot 2^5 + 0 \cdot 2^4 + 1 \cdot 2^3 + 1 \cdot 2^2 + 0 \cdot 2^1 + 1 \cdot 2^0 = 45$
+$1 \cdot 2^0 + 0 \cdot 2^1 + 1 \cdot 2^2 + 1 \cdot 2^3 + 0 \cdot 2^4 + 1 \cdot 2^5 = 45$
 
 ## Tabulky znaků
 

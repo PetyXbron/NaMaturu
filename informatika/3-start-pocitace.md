@@ -28,23 +28,36 @@ state: 2
 
 ## Pevný disk
 
+### Fyzická struktura
+
 HDD (Hard Disk Drive) ukládá data na **magnetické disky**.
 Data jsou na ně zapisována pomocí **magnetických hlaviček**, které se pohybují nad povrchem disku.
 
 Pevné disky jsou spolehlivé a mají dlouhou životnost, ale mohou být **citlivé na nárazy** a vibrace.
 HDD mají obvykle větší kapacitu a jsou **levnější než SSD**.
 
-### Fyzická struktura
+<div style="text-align: center;">
 
-- Pevný disk je rozdělen na **stopy** (kruhy) a **sektory** (výseče)
-- Nejmenší fyzická jednotka pro zápis je **sektor**
-- Sousední sektory jsou seskupeny do větších celků - **clusterů**
+![Otevřený Hard Disk Drive](/media/informatika/hdd-fyzicka-struktura.jpg "Otevřený Hard Disk Drive")
+</div><div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray; gap: 4px;">
+HDD | Christian Jansky | Web <a href="https://commons.wikimedia.org/w/index.php?title=File:Samsung_HD753LJ_03-Opened.jpg&oldid=1084434610" target="_blank">Wikimedia Commons</a>
+</div>
 
 ### Logická struktura
 
-- **Cluster** je nejmenší logická jednotka pro ukládání dat v souborovém systému
-- Soubory zabírají celé clustery, i když jsou menší než jejich velikost
-- Dále existují **oddíly**, které jsou logickými částmi pevného disku, a **svazky**, které jsou logickými jednotkami pro ukládání dat
+- Pevný disk je rozdělen na **stopy** (kruhy) a **sektory** (výseče)
+- Nejmenší fyzická jednotka pro zápis je **blok**
+- Sousední sektory jsou seskupeny do větších celků - **bloků**
+- Soubory zabírají celé bloky, i když jsou menší než jejich velikost
+- Dále existují **oddíly**, které jsou logickými částmi pevného disku  
+a **svazky**, které jsou logickými jednotkami pro ukládání dat
+
+<div style="text-align: center;">
+
+![Logická struktura Hard Disk Drive](/media/informatika/hdd-logicka-struktura.jpg "Logická struktura Hard Disk Drive")
+</div><div style="display: flex; justify-content: center; margin-top: -10px; font-size: 13px; color: gray; gap: 4px;">
+Logická struktura HDD | Mgr. Michal Mikláš | <a href="https://www.gjszlin.cz/ivt/esf/ostatni-sin/hardware-2.php" target="_blank">Gymnázium a Jazyková škola Zlín</a>
+</div>
 
 ::: tip Zajímavost
 Pokud na HDD ukládám spíše větší soubory (filmy, hry), je vhodné zvolit větší velikost clusteru, protože to může zlepšit výkon.  
